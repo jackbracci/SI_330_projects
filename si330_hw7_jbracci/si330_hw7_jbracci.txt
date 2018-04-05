@@ -1,0 +1,8 @@
+SI 330 Homework 7: Map-Reduce in Python Using MRJob
+---------------------------------------------
+
+Full name:Jonathan Bracci
+Uniqname: jbracci
+
+1. Have you worked with anyone else on this assignment?
+I have not worked with anyone else on this assignment.

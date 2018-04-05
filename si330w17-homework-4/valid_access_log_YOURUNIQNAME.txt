@@ -1,0 +1,1 @@
+IP	Ident	Userid	Timestamp	Timezone	HTTP_Request	HTTP_Status	HTTP_Duration	HTTP_Referer	Browser_Type

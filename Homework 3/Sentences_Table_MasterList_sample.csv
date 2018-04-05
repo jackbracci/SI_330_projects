@@ -1,0 +1,1000 @@
+SentID_GM,targ,Sentence_with_Target,Sentence_with_Blank,SimilarTo_SentID_GM,sentence_length,targ_sent_position
+1,agility,The girls agreed that Anna was the one with the most [agility].,The girls agreed that Anna was the one with the most XXXXX.,2381,NA,NA
+2,agility,The group wondered whether John had increased his [agility] since the last time.,The group wondered whether John had increased his XXXXX since the last time.,NA,NA,NA
+3,agility,This year Angela appears to have greater [agility] than last year.,This year Angela appears to have greater XXXXX than last year.,NA,NA,NA
+4,agility,John is the one with the most [agility] in this family.,John is the one with the most XXXXX in this family.,2386,NA,NA
+5,agility,Candace thought that the third one in line had the most [agility].,Candace thought that the third one in line had the most XXXXX.,NA,NA,NA
+6,agility,My sister still believes that the last one has the least [agility].,My sister still believes that the last one has the least XXXXX.,NA,NA,NA
+7,agility,Jim mastered the exercise very quickly because of his [agility].,Jim mastered the exercise very quickly because of his XXXXX.,2376,NA,NA
+8,agility,Peter found the steps hard to follow and struggled because of his poor [agility].,Peter found the steps hard to follow and struggled because of his poor XXXXX.,NA,NA,NA
+9,agility,Some activities require a lot of natural [agility] to succeed in.,Some activities require a lot of natural XXXXX to succeed in.,NA,NA,NA
+10,agility,The girl jumped off the edge with [agility] and landed safely.,The girl jumped off the edge with XXXXX and landed safely.,2378,NA,NA
+11,agility,Simon is a typical cat except for his surprising lack of [agility].,Simon is a typical cat except for his surprising lack of XXXXX.,NA,NA,NA
+12,agility,"During the performance, Mark showed off his excellent [agility].","During the performance, Mark showed off his excellent XXXXX.",NA,NA,NA
+13,agility,The athlete showed her [agility] on the balance beam.,The athlete showed her XXXXX on the balance beam.,2380,NA,NA
+14,agility,The girl danced on the beam with the [agility] of a bird.,The girl danced on the beam with the XXXXX of a bird.,2375,NA,NA
+15,agility,Dog shows have exercises to test the dogs' speed and [agility].,Dog shows have exercises to test the dogs' speed and XXXXX.,NA,NA,NA
+16,agility,"Yoga involves stretching, so it requires [agility] as well as strength.","Yoga involves stretching, so it requires XXXXX as well as strength.",NA,NA,NA
+17,agility,Some wrestlers move with the [agility] of a gymnast.,Some wrestlers move with the XXXXX of a gymnast.,2377,NA,NA
+18,agility,"Natalie used to be agile, but as she aged she lost her [agility].","Natalie used to be agile, but as she aged she lost her XXXXX.",2918,NA,NA
+19,baleful,Paul knew the [baleful] group of boys from when he was a teacher.,Paul knew the XXXXX group of boys from when he was a teacher.,2453,NA,NA
+20,baleful,My brother left me a [baleful] message on my phone last week.,My brother left me a(n) XXXXX message on my phone last week.,2454,NA,NA
+21,baleful,People often disagree about what is or is not [baleful].,People often disagree about what is or is not XXXXX.,NA,NA,NA
+22,baleful,"After they left town, people made up stories about the [baleful] brothers.","After they left town, people made up stories about the XXXXX brothers.",NA,NA,NA
+23,baleful,Sometimes it is hard to know whether a certain look is [baleful].,Sometimes it is hard to know whether a certain look is XXXXX.,NA,NA,NA
+24,baleful,The woman thought that the message was a little [baleful].,The woman thought that the message was a little XXXXX.,NA,NA,NA
+25,baleful,We were unsure what to do when we saw the [baleful] look in his eye.,We were unsure what to do when we saw the XXXXX look in his eye.,NA,NA,NA
+26,baleful,"Instead of fighting, the girl made a bunch of [baleful] comments.","Instead of fighting, the girl made a bunch of XXXXX comments.",2449,NA,NA
+27,baleful,Dave heard strange sounds coming from the [baleful] animal.,Dave heard strange sounds coming from the XXXXX animal.,NA,NA,NA
+28,baleful,"The sound of thunder was [baleful], even though it sounded distant.","The sound of thunder was XXXXX, even though it sounded distant.",NA,NA,NA
+29,baleful,We were surprised when the innocent-looking girl gave a [baleful] laugh.,We were surprised when the innocent-looking girl gave a(n) XXXXX laugh.,NA,NA,NA
+30,baleful,Pam didn't like the guy because he kept giving her [baleful] looks.,Pam didn't like the guy because he kept giving her XXXXX looks.,2971,NA,NA
+31,baleful,The man was so evil that even his laugh had a [baleful] edge.,The man was so evil that even his laugh had a(n) XXXXX edge.,NA,NA,NA
+32,baleful,The man was scared to fight after his enemy gave him a [baleful] look.,The man was scared to fight after his enemy gave him a(n) XXXXX look.,2447,NA,NA
+33,baleful,Amy knew he was the bad guy because he always had a [baleful] look.,Amy knew he was the bad guy because he always had a(n) XXXXX look.,2966,NA,NA
+34,baleful,The bully frightened other people with his [baleful] comments.,The bully frightened other people with his XXXXX comments.,NA,NA,NA
+35,baleful,"On Halloween, the dark sky seemed more [baleful] than normal.","On Halloween, the dark sky seemed more XXXXX than normal.",NA,NA,NA
+36,baleful,"When the dog snarled and gnashed its teeth, it looked [baleful].","When the dog snarled and gnashed its teeth, it looked XXXXX.",NA,NA,NA
+37,bilk,In school we wrote about the causes and effects of [bilking].,In school we wrote about the causes and effects of XXXXX.,NA,NA,NA
+38,bilk,We couldn't find any signs that the couple had been [bilked].,We couldn't find any signs that the couple had been XXXXX.,NA,NA,NA
+39,bilk,Bob always thought it was necessary to [bilk] other people.,Bob always thought it was necessary to XXXXX other people.,2151,NA,NA
+40,bilk,"When Angela appeared, the rest of the girls tried to [bilk] her.","When Angela appeared, the rest of the girls tried to XXXXX her.",NA,NA,NA
+41,bilk,I don't know anyone who would be interested in [bilking] them.,I don't know anyone who would be interested in XXXXX them.,NA,NA,NA
+42,bilk,My friend and I had a conversation about what it means to [bilk] someone.,My friend and I had a conversation about what it means to XXXXX someone.,NA,NA,NA
+43,bilk,The strange man disappeared before Amy noticed that she'd been [bilked].,The strange man disappeared before Amy noticed that she'd been XXXXX.,NA,NA,NA
+44,bilk,Billy thought that he had been [bilked] into the agreement.,Billy thought that he had been XXXXX into the agreement.,NA,NA,NA
+45,bilk,On the first day of school the boy liked to [bilk] other students.,On the first day of school the boy liked to XXXXX other students.,NA,NA,NA
+46,bilk,I read about the person that was [bilked] in the newspaper last week.,I read about the person that was XXXXX in the newspaper last week.,2146,NA,NA
+47,bilk,My friends warned me not to get [bilked] by my lawyer.,My friends warned me not to get XXXXX by my lawyer.,NA,NA,NA
+48,bilk,"Becky was ambitious, and not above [bilking] people to get ahead.","Becky was ambitious, and not above XXXXX people to get ahead.",NA,NA,NA
+49,bilk,Conner set up a fake business to [bilk] people into giving him money.,Conner set up a fake business to XXXXX people into giving him money.,2760,NA,NA
+50,bilk,The criminal knew how to [bilk] people out of their money.,The criminal knew how to XXXXX people out of their money.,2140,NA,NA
+51,bilk,It is unfair to [bilk] people out of their hard-earned cash.,It is unfair to XXXXX people out of their hard-earned cash.,2141,NA,NA
+52,bilk,The sneaky boy [bilked] his sister into giving up her candy.,The sneaky boy XXXXX his sister into giving up her candy.,2145,NA,NA
+53,bilk,Tom Sawyer [bilked] other boys into doing his work for him.,Tom Sawyer XXXXX other boys into doing his work for him.,2758,NA,NA
+54,bilk,"Bill fell for the con, which [bilked] him out of his savings.","Bill fell for the con, which XXXXX him out of his savings.",NA,NA,NA
+55,canny,"Every day, on my way to school I passed the [canny] shop keeper.","Every day, on my way to school I passed the XXXXX shop keeper.",NA,NA,NA
+56,canny,Some people appear to be more [canny] than other people.,Some people appear to be more XXXXX than other people.,NA,NA,NA
+57,canny,"I get the feeling that my new neighbor is [canny], but I'm not sure.","I get the feeling that my new neighbor is XXXXX, but I'm not sure.",2660,NA,NA
+58,canny,The only new person in class was a [canny] young transfer student.,The only new person in class was a(n) XXXXX young transfer student.,NA,NA,NA
+59,canny,We didn't realize that those guys could be so [canny].,We didn't realize that those guys could be so XXXXX.,NA,NA,NA
+60,canny,The new boy in school had a [canny] look on his face.,The new boy in school had a(n) XXXXX look on his face.,NA,NA,NA
+61,canny,"The trickster wore regular clothes to blend in, a [canny] move.","The trickster wore regular clothes to blend in, a(n) XXXXX move.",NA,NA,NA
+62,canny,"When Jack wanted to get agreement, he had a [canny] means of persuasion.","When Jack wanted to get agreement, he had a(n) XXXXX means of persuasion.",4388,NA,NA
+63,canny,Lawyers must be thoughtful and [canny] in order to succeed.,Lawyers must be thoughtful and XXXXX in order to succeed.,NA,NA,NA
+64,canny,You must be careful if you want to be a [canny] investor.,You must be careful if you want to be a(n) XXXXX investor.,4389,NA,NA
+65,canny,I didn't trust the new boy because he had a [canny] look.,I didn't trust the new boy because he had a(n) XXXXX look.,3105,NA,NA
+66,canny,The girl won us over with her [canny] sense of what to say.,The girl won us over with her XXXXX sense of what to say.,NA,NA,NA
+67,canny,Ben thought she was [canny] and only interested in winning.,Ben thought she was XXXXX and only interested in winning.,NA,NA,NA
+68,canny,Victor realized she must be very [canny] to get away with the theft.,Victor realized she must be very XXXXX to get away with the theft.,NA,NA,NA
+69,canny,I worried that John would trick me because he was very [canny].,I worried that John would trick me because he was very XXXXX.,2652,NA,NA
+70,canny,"It is possible to be clever or [canny], without being selfish.","It is possible to be clever or XXXXX, without being selfish.",NA,NA,NA
+71,canny,"To avoid getting caught, a thief must be very [canny].","To avoid getting caught, a thief must be very XXXXX.",NA,NA,NA
+72,canny,We never guessed we'd been tricked because the magician was so [canny].,We never guessed we'd been tricked because the magician was so XXXXX.,3220,NA,NA
+73,captious,I do not think that anyone in this group is very [captious].,I do not think that anyone in this group is very XXXXX.,2645,NA,NA
+74,captious,The nurse who worked the night shift was more [captious] than the daytime nurse.,The nurse who worked the night shift was more XXXXX than the daytime nurse.,2646,NA,NA
+75,captious,"After he completed the sale with the last customer, the [captious] salesperson left.","After he completed the sale with the last customer, the XXXXX salesperson left.",NA,NA,NA
+76,captious,Ian didn't think that he had met many people who were that [captious].,Ian didn't think that he had met many people who were that XXXXX.,NA,NA,NA
+77,captious,The person that we met with yesterday is somewhat [captious].,The person that we met with yesterday is somewhat XXXXX.,NA,NA,NA
+78,captious,The photograph showed a boy with a [captious] look on his face.,The photograph showed a boy with a(n) XXXXX look on his face.,NA,NA,NA
+79,captious,"I like Ross, even though some people thought he was [captious].","I like Ross, even though some people thought he was XXXXX.",NA,NA,NA
+80,captious,"The librarian liked an orderly library, and she could be quite [captious].","The librarian liked an orderly library, and she could be quite XXXXX.",NA,NA,NA
+81,captious,Penny didn't want to disappoint her father because he could get [captious].,Penny didn't want to disappoint her father because he could get XXXXX.,NA,NA,NA
+82,captious,Lisa thought she had to be [captious] to get people working.,Lisa thought she had to be XXXXX to get people working.,3099,NA,NA
+83,captious,"When our team lost, my father was [captious] for the next few hours.","When our team lost, my father was XXXXX for the next few hours.",NA,NA,NA
+84,captious,She was so serious it was hard to tell if she was [captious] or shy.,She was so serious it was hard to tell if she was XXXXX or shy.,NA,NA,NA
+85,captious,It's easier to make friends if you are friendly instead of [captious].,It's easier to make friends if you are friendly instead of XXXXX.,2639,NA,NA
+86,captious,Her serious stare told us that she was a [captious] teacher.,Her serious stare told us that she was a(n) XXXXX teacher.,3096,NA,NA
+87,captious,"When our father disciplines us, he is [captious], but fair.","When our father disciplines us, he is XXXXX, but fair.",NA,NA,NA
+88,captious,Kids avoided the old man because he was [captious] and liked to scold them.,Kids avoided the old man because he was XXXXX and liked to scold them.,NA,NA,NA
+89,captious,"The captain was always frowning, so we thought he was [captious].","The captain was always frowning, so we thought he was XXXXX.",NA,NA,NA
+90,captious,Shawn was afraid of making the smallest error because his boss was so [captious].,Shawn was afraid of making the smallest error because his boss was so XXXXX.,NA,NA,NA
+91,demure,I think my neighbor might be [demure] but I am not sure.,I think my neighbor might be XXXXX but I am not sure.,2679,NA,NA
+92,demure,"We thought that Betty was becoming less [demure], but we were wrong.","We thought that Betty was becoming less XXXXX, but we were wrong.",2680,NA,NA
+93,demure,The girl at the dance the other night was very [demure].,The girl at the dance the other night was very XXXXX.,NA,NA,NA
+94,demure,Sometimes I appear to be more [demure] than I really am.,Sometimes I appear to be more XXXXX than I really am.,2683,NA,NA
+95,demure,At school Dana was more [demure] than she was at home.,At school Dana was more XXXXX than she was at home.,NA,NA,NA
+96,demure,Since last year my friend has become much less [demure].,Since last year my friend has become much less XXXXX.,NA,NA,NA
+97,demure,"Tammy was generally quiet and polite, as well as [demure].","Tammy was generally quiet and polite, as well as XXXXX.",NA,NA,NA
+98,demure,"Sally was generally outspoken, but tried to act more [demure] around boys.","Sally was generally outspoken, but tried to act more XXXXX around boys.",NA,NA,NA
+99,demure,Tasha stopped wearing miniskirts and adopted a more [demure] look.,Tasha stopped wearing miniskirts and adopted a more XXXXX look.,NA,NA,NA
+100,demure,"There is a time to be heard, instead of being silent and [demure].","There is a time to be heard, instead of being silent and XXXXX.",NA,NA,NA
+101,demure,"These days, women no longer need to be [demure] to be appreciated.","These days, women no longer need to be XXXXX to be appreciated.",NA,NA,NA
+102,demure,Some parents still raise their daughters to be [demure] and proper.,Some parents still raise their daughters to be XXXXX and proper.,NA,NA,NA
+103,demure,Some men are less threatened by women who are [demure] rather than outgoing.,Some men are less threatened by women who are XXXXX rather than outgoing.,NA,NA,NA
+104,demure,Tasha attempted to curtsy in an effort to be [demure].,Tasha attempted to curtsy in an effort to be XXXXX.,NA,NA,NA
+105,demure,Some boys are more comfortable around girls who are [demure] instead of bold.,Some boys are more comfortable around girls who are XXXXX instead of bold.,NA,NA,NA
+106,demure,"The girl was energetic and silly at home, but quiet and [demure] in class.","The girl was energetic and silly at home, but quiet and XXXXX in class.",NA,NA,NA
+107,demure,In India girls were historically taught to be submissive and [demure].,In India girls were historically taught to be submissive and XXXXX.,NA,NA,NA
+108,demure,"The opera singer wore a ladylike dress and [demure], elbow-length gloves.","The opera singer wore a ladylike dress and XXXXX, elbow-length gloves.",NA,NA,NA
+109,din,The group did not choose that one because of all the [din].,The group did not choose that one because of all the XXXXX.,2597,NA,NA
+110,din,Some people are more sensitive to [din] than other people.,Some people are more sensitive to XXXXX than other people.,2600,NA,NA
+111,din,Sometimes there is greater [din] right before we sit down.,Sometimes there is greater XXXXX right before we sit down.,NA,NA,NA
+112,din,When the rest of us left the building there was very little [din].,When the rest of us left the building there was very little XXXXX.,NA,NA,NA
+113,din,After about an hour the [din] had all but disappeared.,After about an hour the XXXXX had all but disappeared.,NA,NA,NA
+114,din,The novel was so interesting that I forgot about the [din].,The novel was so interesting that I forgot about the XXXXX.,NA,NA,NA
+115,din,Sometimes I want to relax and get away from all the [din].,Sometimes I want to relax and get away from all the XXXXX.,NA,NA,NA
+116,din,I enjoyed my flight to Paris except for all the [din] in the cabin.,I enjoyed my flight to Paris except for all the XXXXX in the cabin.,3075,NA,NA
+117,din,The thief was able to sneak away amid the [din] from the party.,The thief was able to sneak away amid the XXXXX from the party.,NA,NA,NA
+118,din,It's easy to be distracted by all the [din] around here.,It's easy to be distracted by all the XXXXX around here.,NA,NA,NA
+119,din,We tried to continue our discussion amid the [din] of the crowd.,We tried to continue our discussion amid the XXXXX of the crowd.,NA,NA,NA
+120,din,Cory finds it hard to concentrate with all the [din].,Cory finds it hard to concentrate with all the XXXXX.,NA,NA,NA
+121,din,We covered our ears to block the loud [din] from the crowd.,We covered our ears to block the loud XXXXX from the crowd.,2591,NA,NA
+122,din,She couldn't sleep because of the [din] upstairs.,She couldn't sleep because of the XXXXX upstairs.,2592,NA,NA
+123,din,The jackhammer causes a greater [din] than any other tool.,The jackhammer causes a greater XXXXX than any other tool.,1090,NA,NA
+124,din,A library should be free from [din] so people can read.,A library should be free from XXXXX so people can read.,2594,NA,NA
+125,din,I closed the window to shut out the constant [din] of the traffic.,I closed the window to shut out the constant XXXXX of the traffic.,NA,NA,NA
+126,din,The barks and howls of dogs created too much [din] for us to sleep.,The barks and howls of dogs created too much XXXXX for us to sleep.,NA,NA,NA
+127,emaciated,We are trying to figure out why the boys are so [emaciated].,We are trying to figure out why the boys are so XXXXX.,2441,NA,NA
+128,emaciated,Maria thought that her daughter seemed [emaciated] last week.,Maria thought that her daughter seemed XXXXX last week.,2442,NA,NA
+129,emaciated,It should be easy to determine which one is more [emaciated].,It should be easy to determine which one is more XXXXX.,2443,NA,NA
+130,emaciated,I did not know that Manny had become so [emaciated] while I was gone.,I did not know that Manny had become so XXXXX while I was gone.,2444,NA,NA
+131,emaciated,Nobody had told me that Tom was so much more [emaciated] than before.,Nobody had told me that Tom was so much more XXXXX than before.,NA,NA,NA
+132,emaciated,"We followed the instructions, which said to find the boy who was [emaciated].","We followed the instructions, which said to find the boy who was XXXXX.",NA,NA,NA
+133,emaciated,The doctor was concerned because the girl looked [emaciated].,The doctor was concerned because the girl looked XXXXX.,NA,NA,NA
+134,emaciated,"When we saw Tom, he seemed to be feeling better but was still [emaciated].","When we saw Tom, he seemed to be feeling better but was still XXXXX.",NA,NA,NA
+135,emaciated,The doctor warned the woman she was too [emaciated] from a poor diet.,The doctor warned the woman she was too XXXXX from a poor diet.,2440,NA,NA
+136,emaciated,"The girl looked surprisingly [emaciated], and we wondered if she had been sick.","The girl looked surprisingly XXXXX, and we wondered if she had been sick.",2946,NA,NA
+137,emaciated,Some people think that they need to be [emaciated] in order to be attractive.,Some people think that they need to be XXXXX in order to be attractive.,NA,NA,NA
+138,emaciated,"Megan dieted too much and rather than looking healthy, she looked [emaciated].","Megan dieted too much and rather than looking healthy, she looked XXXXX.",2945,NA,NA
+139,emaciated,Homeless people are often [emaciated] because of their lack of food.,Homeless people are often XXXXX because of their lack of food.,2943,NA,NA
+140,emaciated,"Wendy used to be fat, but after her illness she looked [emaciated].","Wendy used to be fat, but after her illness she looked XXXXX.",2947,NA,NA
+141,emaciated,Sean ate lots of fatty foods to put some weight on his [emaciated] body.,Sean ate lots of fatty foods to put some weight on his XXXXX body.,2436,NA,NA
+142,emaciated,People in poor countries are often [emaciated] because they do not eat often enough.,People in poor countries are often XXXXX because they do not eat often enough.,2944,NA,NA
+143,emaciated,Professional models are sometimes so extremely thin that they look [emaciated].,Professional models are sometimes so extremely thin that they look XXXXX.,NA,NA,NA
+144,emaciated,"It is better to be of average weight, as opposed to thin or even [emaciated].","It is better to be of average weight, as opposed to thin or even XXXXX.",NA,NA,NA
+145,frigid,Most people do not like to be [frigid] in their own homes.,Most people do not like to be XXXXX in their own homes.,2726,NA,NA
+146,frigid,I was surprised to find that it was so [frigid].,I was surprised to find that it was so XXXXX.,NA,NA,NA
+147,frigid,"Although Mary had refused to believe it, there was no denying that it was very [frigid].","Although Mary had refused to believe it, there was no denying that it was very XXXXX.",NA,NA,NA
+148,frigid,There's nothing we can do if it turns out to be [frigid].,There's nothing we can do if it turns out to be XXXXX.,3169,NA,NA
+149,frigid,"We could not tell whether it was [frigid] or not, so we asked John.","We could not tell whether it was XXXXX or not, so we asked John.",NA,NA,NA
+150,frigid,You'll find what you're looking for when it becomes more [frigid].,You'll find what you're looking for when it becomes more XXXXX.,3168,NA,NA
+151,frigid,Martin took a drink and found that his coffee was [frigid].,Martin took a drink and found that his coffee was XXXXX.,2728,NA,NA
+152,frigid,The [frigid] room made it hard to concentrate on our work.,The XXXXXroom made it hard to concentrate on our work.,NA,NA,NA
+153,frigid,"It was a [frigid] afternoon, so he stayed in his office.","It was a(n) XXXXXafternoon, so he stayed in his office.",NA,NA,NA
+154,frigid,"The place was too [frigid] for her, so she asked to leave.","The place was too XXXXX for her, so she asked to leave.",2721,NA,NA
+155,frigid,We didn't need to know the temperature to tell that it was [frigid].,We didn't need to know the temperature to tell that it was XXXXX.,NA,NA,NA
+156,frigid,"When Sarah came to visit, she observed that it was often [frigid].","When Sarah came to visit, she observed that it was often XXXXX.",2723,NA,NA
+157,frigid,"When the weather is this [frigid], skiers are the only ones who celebrate.","When the weather is this XXXXX, skiers are the only ones who celebrate.",NA,NA,NA
+158,frigid,We put on coats and mittens before we ventured out into the [frigid] temperatures.,We put on coats and mittens before we ventured out into the XXXXX temperatures.,NA,NA,NA
+159,frigid,The winter breeze was too [frigid] for us to stay outside.,The winter breeze was too XXXXX for us to stay outside.,2733,NA,NA
+160,frigid,Alaska is famous for its [frigid] temperatures and beautiful scenery.,Alaska is famous for its XXXXX temperatures and beautiful scenery.,2734,NA,NA
+161,frigid,"The air conditioning was too high, and the room became [frigid].","The air conditioning was too high, and the room became XXXXX.",2736,NA,NA
+162,frigid,The refrigerator was so [frigid] that the milk froze.,The refrigerator was so XXXXX that the milk froze.,2738,NA,NA
+163,garish,"When Martin showed the new one to Tina, she thought it was [garish].","When Martin showed the new one to Tina, she thought it was XXXXX.",3147,NA,NA
+164,garish,Inside the building there was one that was particularly [garish].,Inside the building there was one that was particularly XXXXX.,NA,NA,NA
+165,garish,"The place had so many of them, it was [garish].","The place had so many of them, it was XXXXX.",3150,NA,NA
+166,garish,Sarah decided to buy the one we thought was [garish].,Sarah decided to buy the one we thought was XXXXX.,3151,NA,NA
+167,garish,We were surprised that the one she chose was not very [garish].,We were surprised that the one she chose was not very XXXXX.,NA,NA,NA
+168,garish,Brian was the only one who thought that they were [garish].,Brian was the only one who thought that they were XXXXX.,NA,NA,NA
+169,garish,Heather was ashamed of the dress because it was so [garish].,Heather was ashamed of the dress because it was so XXXXX.,2771,NA,NA
+170,garish,"Cinderella had two very mean stepsisters, who wore [garish] jewels to flaunt their wealth.","Cinderella had two very mean stepsisters, who wore XXXXX jewels to flaunt their wealth.",2774,NA,NA
+171,garish,I did not comment on the new wallpaper because I thought it was [garish].,I did not comment on the new wallpaper because I thought it was XXXXX.,3153,NA,NA
+172,garish,"Kelly spent lots of money redecorating her house, but it was still [garish].","Kelly spent lots of money redecorating her house, but it was still XXXXX.",3155,NA,NA
+173,garish,Rayna put on enough makeup to be noticed without being [garish].,Rayna put on enough makeup to be noticed without being XXXXX.,NA,NA,NA
+174,garish,"An outfit that is too colorful, tight, or revealing can look [garish].","An outfit that is too colorful, tight, or revealing can look XXXXX.",NA,NA,NA
+175,garish,"Grandma's old clock was so [garish], we hid it until she visited.","Grandma's old clock was so XXXXX, we hid it until she visited.",2769,NA,NA
+176,garish,"The hat had so many bright colors and sequins that it was [garish], instead of elegant.","The hat had so many bright colors and sequins that it was XXXXX, instead of elegant.",NA,NA,NA
+177,garish,"Some think that animal prints are pretty, but others think they're [garish].","Some think that animal prints are pretty, but others think they're XXXXX.",3154,NA,NA
+178,garish,"Maria thought her fake jewels looked lovely, but her friends thought they were [garish].","Maria thought her fake jewels looked lovely, but her friends thought they were XXXXX.",NA,NA,NA
+179,garish,"She accepted the engagement ring, although it was poorly crafted and [garish].","She accepted the engagement ring, although it was poorly crafted and XXXXX.",3177,NA,NA
+180,garish,Makeup that is too thick or extreme can be [garish] instead of pretty.,Makeup that is too thick or extreme can be XXXXX instead of pretty.,NA,NA,NA
+181,gramercy,I was surprised by her expression of [gramercy] last night.,I was surprised by her expression of XXXXX last night.,NA,NA,NA
+182,gramercy,Clara did not think that [gramercy] would be an appropriate response.,Clara did not think that XXXXX would be an appropriate response.,NA,NA,NA
+183,gramercy,"Chris was surprised, because he had not expected to receive any [gramercy].","Chris was surprised, because he had not expected to receive any XXXXX.",NA,NA,NA
+184,gramercy,"After her classes, Susan found herself daydreaming about all the [gramercy].","After her classes, Susan found herself daydreaming about all the XXXXX.",NA,NA,NA
+185,gramercy,Bob thought that the letter showed a distinct lack of [gramercy].,Bob thought that the letter showed a distinct lack of XXXXX.,NA,NA,NA
+186,gramercy,There are lots of things you can do to convey [gramercy].,There are lots of things you can do to convey XXXXX.,NA,NA,NA
+187,gramercy,"After hearing the good news, Chris responded with [gramercy].","After hearing the good news, Chris responded with XXXXX.",NA,NA,NA
+188,gramercy,She wrote a letter expressing her [gramercy] to the company.,She wrote a letter expressing her XXXXX to the company.,2284,NA,NA
+189,gramercy,"After the disaster, we expressed [gramercy] to the volunteers who helped rebuild the town.","After the disaster, we expressed XXXXX to the volunteers who helped rebuild the town.",NA,NA,NA
+190,gramercy,"At the end of the school year, we put on a show to express our [gramercy].","At the end of the school year, we put on a show to express our XXXXX.",NA,NA,NA
+191,gramercy,"Sometimes it is important to display [gramercy], even when it's hard.","Sometimes it is important to display XXXXX, even when it's hard.",NA,NA,NA
+192,gramercy,We built the park in his name to show [gramercy] for all of his work.,We built the park in his name to show XXXXX for all of his work.,NA,NA,NA
+193,gramercy,She hurt my feelings by failing to show [gramercy] for my gift.,She hurt my feelings by failing to show XXXXX for my gift.,NA,NA,NA
+194,gramercy,The man saved my life and I wanted to show [gramercy] in return.,The man saved my life and I wanted to show XXXXX in return.,NA,NA,NA
+195,gramercy,"My parents helped me, so I expressed my [gramercy] in my speech.","My parents helped me, so I expressed my XXXXX in my speech.",NA,NA,NA
+196,gramercy,She felt relieved and expressed [gramercy] for the help of the volunteers.,She felt relieved and expressed XXXXX for the help of the volunteers.,NA,NA,NA
+197,gramercy,"At Thanksgiving, we express [gramercy] for what we have.","At Thanksgiving, we express XXXXX for what we have.",NA,NA,NA
+198,gramercy,"When someone does something nice for you, it's polite to express your [gramercy].","When someone does something nice for you, it's polite to express your XXXXX.",NA,NA,NA
+199,insolence,"If you pay attention, sometimes you can observe [insolence] in others.","If you pay attention, sometimes you can observe XXXXX in others.",2346,NA,NA
+200,insolence,People of all ages are capable of displaying [insolence].,People of all ages are capable of displaying XXXXX.,NA,NA,NA
+201,insolence,It is easy to see when someone else is showing [insolence].,It is easy to see when someone else is showing XXXXX.,2349,NA,NA
+202,insolence,They discussed whether or not to invite Nick after they observed his [insolence].,They discussed whether or not to invite Nick after they observed his XXXXX.,NA,NA,NA
+203,insolence,The viewers agreed that John was the one with more [insolence].,The viewers agreed that John was the one with more XXXXX.,3198,NA,NA
+204,insolence,The author decided to write about the consequences of [insolence].,The author decided to write about the consequences of XXXXX.,NA,NA,NA
+205,insolence,"Rita constantly bragged, so nobody was surprised by her [insolence].","Rita constantly bragged, so nobody was surprised by her XXXXX.",NA,NA,NA
+206,insolence,Actors are known for their difficult demands and their [insolence].,Actors are known for their difficult demands and their XXXXX.,2899,NA,NA
+207,insolence,Nobody liked the winner because of her [insolence].,Nobody liked the winner because of her XXXXX.,NA,NA,NA
+208,insolence,"Sarah thought she knew everything, but people saw through her [insolence].","Sarah thought she knew everything, but people saw through her XXXXX.",NA,NA,NA
+209,insolence,"After Pat got the lead role in the play, her [insolence] got worse.","After Pat got the lead role in the play, her XXXXX got worse.",NA,NA,NA
+210,insolence,Bob had a thin smile that suggested [insolence] rather than warmth.,Bob had a thin smile that suggested XXXXX rather than warmth.,NA,NA,NA
+211,insolence,"Jack thought he was showing confidence, but Carol thought it was [insolence].","Jack thought he was showing confidence, but Carol thought it was XXXXX.",2898,NA,NA
+212,insolence,"Josh thinks that no one else can do his job, which shows his [insolence].","Josh thinks that no one else can do his job, which shows his XXXXX.",NA,NA,NA
+213,insolence,"Brad joked a lot, but some people mistook his humor for [insolence].","Brad joked a lot, but some people mistook his humor for XXXXX.",NA,NA,NA
+214,insolence,Eric's friends got impatient with his [insolence] and boasting.,Eric's friends got impatient with his XXXXX and boasting.,2344,NA,NA
+215,insolence,"When David got an 'A+' on the test, we could hardly take his [insolence].","When David got an 'A+' on the test, we could hardly take his XXXXX.",NA,NA,NA
+216,insolence,Mike had few friends because of his [insolence] and aggression.,Mike had few friends because of his XXXXX and aggression.,NA,NA,NA
+217,intrepid,His friends did not consider him to be a very [intrepid] man.,His friends did not consider him to be a very XXXXX man.,2297,NA,NA
+218,intrepid,"After she left, people could not stop talking about her [intrepid] actions.","After she left, people could not stop talking about her XXXXX actions.",NA,NA,NA
+219,intrepid,Most of the people who joined our group this year are [intrepid].,Most of the people who joined our group this year are XXXXX.,NA,NA,NA
+220,intrepid,The speaker asked the audience to imagine an [intrepid] person.,The speaker asked the audience to imagine a(n) XXXXX person.,2300,NA,NA
+221,intrepid,Her brother says she is the most [intrepid] person he knows.,Her brother says she is the most XXXXX person he knows.,2301,NA,NA
+222,intrepid,"According to them, Curt is much more [intrepid] than Will.","According to them, Curt is much more XXXXX than Will.",NA,NA,NA
+223,intrepid,Soldiers try to be [intrepid] when getting ready for battle.,Soldiers try to be XXXXX when getting ready for battle.,2292,NA,NA
+224,intrepid,"The dog protected his owner from the wolf, so he must be [intrepid].","The dog protected his owner from the wolf, so he must be XXXXX.",NA,NA,NA
+225,intrepid,The child would have drowned if it were not for the [intrepid] diver.,The child would have drowned if it were not for the XXXXX diver.,NA,NA,NA
+226,intrepid,"He always seemed so [intrepid], it was strange to see his response to the mouse.","He always seemed so XXXXX, it was strange to see his response to the mouse.",2839,NA,NA
+227,intrepid,"Warren wanted to prove he was [intrepid], so he went sky-diving.","Warren wanted to prove he was XXXXX, so he went sky-diving.",2836,NA,NA
+228,intrepid,To reach your dreams sometimes you need to be [intrepid].,To reach your dreams sometimes you need to be XXXXX.,NA,NA,NA
+229,intrepid,"To enter a burning house, a firefighter must be very [intrepid].","To enter a burning house, a firefighter must be very XXXXX.",NA,NA,NA
+230,intrepid,"To be a lion tamer, you must be [intrepid], not timid and fearful.","To be a lion tamer, you must be XXXXX, not timid and fearful.",NA,NA,NA
+231,intrepid,Ken was so [intrepid] that he stood up to the big bully.,Ken was so XXXXX that he stood up to the big bully.,2835,NA,NA
+232,intrepid,"Even though he was scared, the soldier tried to appear [intrepid].","Even though he was scared, the soldier tried to appear XXXXX.",NA,NA,NA
+233,intrepid,A journalist who risks everything to cover a war is considered [intrepid].,A journalist who risks everything to cover a war is considered XXXXX.,NA,NA,NA
+234,intrepid,Policemen must be [intrepid] to fight crime every day.,Policemen must be XXXXX to fight crime every day.,2294,NA,NA
+235,lithe,Karen expected some of her friends to be more [lithe] than they were.,Karen expected some of her friends to be more XXXXX than they were.,2417,NA,NA
+236,lithe,Tina has become much more [lithe] over the summer.,Tina has become much more XXXXX over the summer.,2418,NA,NA
+237,lithe,The ones that get chosen are the ones that are the most [lithe].,The ones that get chosen are the ones that are the most XXXXX.,NA,NA,NA
+238,lithe,Amy was much more [lithe] last year than she is this year.,Amy was much more XXXXX last year than she is this year.,2420,NA,NA
+239,lithe,We don't know how to determine which one is more [lithe].,We don't know how to determine which one is more XXXXX.,3200,NA,NA
+240,lithe,I wasn't aware that Rachel was becoming more [lithe].,I wasn't aware that Rachel was becoming more XXXXX.,NA,NA,NA
+241,lithe,Our coach makes us warm up to make us more [lithe].,Our coach makes us warm up to make us more XXXXX.,2412,NA,NA
+242,lithe,The new kid was a teenager who was very [lithe] and motivated to win.,The new kid was a teenager who was very XXXXX and motivated to win.,NA,NA,NA
+243,lithe,Annie won the contest because she was extremely [lithe].,Annie won the contest because she was extremely XXXXX.,2933,NA,NA
+244,lithe,"He enjoyed watching the dancers, who were all very [lithe].","He enjoyed watching the dancers, who were all very XXXXX.",NA,NA,NA
+245,lithe,"When I saw him next, he was no longer [lithe] and looked his age.","When I saw him next, he was no longer XXXXX and looked his age.",NA,NA,NA
+246,lithe,The tall black stallion was [lithe] and looked ready for the race.,The tall black stallion was XXXXX and looked ready for the race.,NA,NA,NA
+247,lithe,A gymnast needs to stretch often to become more [lithe].,A gymnast needs to stretch often to become more XXXXX.,2411,NA,NA
+248,lithe,The athlete did the splits to prove that he was [lithe].,The athlete did the splits to prove that he was XXXXX.,2413,NA,NA
+249,lithe,She can wrap her leg around her head because she is very [lithe].,She can wrap her leg around her head because she is very XXXXX.,NA,NA,NA
+250,lithe,He cannot touch his toes because he is not very [lithe].,He cannot touch his toes because he is not very XXXXX.,NA,NA,NA
+251,lithe,Mary can do a back-bend because she exercises to stay [lithe].,Mary can do a back-bend because she exercises to stay XXXXX.,NA,NA,NA
+252,lithe,The dancer kept her body [lithe] and lean from daily stretching.,The dancer kept her body XXXXX and lean from daily stretching.,NA,NA,NA
+253,nefarious,The girl in the corner had a [nefarious] look on her face.,The girl in the corner had a(n) XXXXX look on her face.,2324,NA,NA
+254,nefarious,It is hard to believe that you have never met a [nefarious] person.,It is hard to believe that you have never met a(n) XXXXX person.,2325,NA,NA
+255,nefarious,My friend gave me a [nefarious] look from across the street.,My friend gave me a(n) XXXXX look from across the street.,2326,NA,NA
+256,nefarious,It's unusual to find so many people who are [nefarious].,It's unusual to find so many people who are XXXXX.,3193,NA,NA
+257,nefarious,"I have never personally met her, though everyone describes her as [nefarious].","I have never personally met her, though everyone describes her as XXXXX.",NA,NA,NA
+258,nefarious,That was the first time that I saw the picture of the [nefarious] man.,That was the first time that I saw the picture of the XXXXX man.,NA,NA,NA
+259,nefarious,"In my dream he had horns on his head, so I thought he was [nefarious].","In my dream he had horns on his head, so I thought he was XXXXX.",2866,NA,NA
+260,nefarious,"Susie was not well liked, and some people called her [nefarious].","Susie was not well liked, and some people called her XXXXX.",NA,NA,NA
+261,nefarious,Sometimes people do [nefarious] things without meaning to hurt people.,Sometimes people do XXXXX things without meaning to hurt people.,2868,NA,NA
+262,nefarious,Jake wrote a story about a [nefarious] monster who lived in his closet.,Jake wrote a story about a(n) XXXXX monster who lived in his closet.,2315,NA,NA
+263,nefarious,The fire was started by a [nefarious] group of criminals.,The fire was started by a(n) XXXXX group of criminals.,NA,NA,NA
+264,nefarious,Harry spent his life in prison because of his [nefarious] crimes.,Harry spent his life in prison because of his XXXXX crimes.,NA,NA,NA
+265,nefarious,The robber spent a lot of time perfecting his [nefarious] plan.,The robber spent a lot of time perfecting his XXXXX plan.,NA,NA,NA
+266,nefarious,Snow White had a stepmother who was jealous and [nefarious].,Snow White had a stepmother who was jealous and XXXXX.,NA,NA,NA
+267,nefarious,"The villain wanted to rule the world, so he devised a [nefarious] plan.","The villain wanted to rule the world, so he devised a(n) XXXXX plan.",NA,NA,NA
+268,nefarious,"In fairytales, heroes often dress in white, whereas [nefarious] characters dress in black.","In fairytales, heroes often dress in white, whereas XXXXX characters dress in black.",NA,NA,NA
+269,nefarious,The witch threatened to eat the children because she was [nefarious].,The witch threatened to eat the children because she was XXXXX.,NA,NA,NA
+270,nefarious,"Clowns are supposed to be cute and funny, not scary and [nefarious].","Clowns are supposed to be cute and funny, not scary and XXXXX.",NA,NA,NA
+271,noisome,The boy sitting next to me on the bus was [noisome].,The boy sitting next to me on the bus was XXXXX.,2952,NA,NA
+272,noisome,The new kid was one of the most [noisome] people I've ever met.,The new kid was one of the most XXXXX people I've ever met.,NA,NA,NA
+273,noisome,We looked everywhere but we couldn't find the [noisome] one.,We looked everywhere but we couldn't find the XXXXX one.,NA,NA,NA
+274,noisome,After we made the purchase we found out that one of them was [noisome].,After we made the purchase we found out that one of them was XXXXX.,NA,NA,NA
+275,noisome,I tried to persuade Jim that it was no longer [noisome].,I tried to persuade Jim that it was no longer XXXXX.,3202,NA,NA
+276,noisome,There are a few ways to tell whether or not it's [noisome].,There are a few ways to tell whether or not it's XXXXX.,3203,NA,NA
+277,noisome,"When we opened the bag, the we caught a whiff of something [noisome].","When we opened the bag, the we caught a whiff of something XXXXX.",NA,NA,NA
+278,noisome,"After practice, John's basketball uniform was thoroughly [noisome].","After practice, John's basketball uniform was thoroughly XXXXX.",NA,NA,NA
+279,noisome,I didn't want to ride in Josh's car anymore because it was [noisome].,I didn't want to ride in Josh's car anymore because it was XXXXX.,NA,NA,NA
+280,noisome,"When John got back, he detected something [noisome] in the air.","When John got back, he detected something XXXXX in the air.",NA,NA,NA
+281,noisome,The blanket that is draped over the couch is old and [noisome].,The blanket that is draped over the couch is old and XXXXX.,NA,NA,NA
+282,noisome,"Sarah thought her new perfume smelled great, but I thought it was [noisome].","Sarah thought her new perfume smelled great, but I thought it was XXXXX.",NA,NA,NA
+283,noisome,Tina gave her dog a bath so that he smelled less [noisome].,Tina gave her dog a bath so that he smelled less XXXXX.,NA,NA,NA
+284,noisome,She had to plug her nose because her brother's feet were so [noisome].,She had to plug her nose because her brother's feet were so XXXXX.,NA,NA,NA
+285,noisome,We knew when to change the diaper because of the [noisome] smell.,We knew when to change the diaper because of the XXXXX smell.,NA,NA,NA
+286,noisome,"After the sewer exploded, the street was filled with a [noisome] stench.","After the sewer exploded, the street was filled with a(n) XXXXX stench.",NA,NA,NA
+287,noisome,We pinched our nose because the sewer was so [noisome].,We pinched our nose because the sewer was so XXXXX.,NA,NA,NA
+288,noisome,When we opened the garbage lid the smell was so [noisome] I almost fainted.,When we opened the garbage lid the smell was so XXXXX I almost fainted.,NA,NA,NA
+289,noxious,Our group talked for a long time about whether the activity was [noxious].,Our group talked for a long time about whether the activity was XXXXX.,2477,NA,NA
+290,noxious,I think we were the only ones who heard the [noxious] remarks about the girl.,I think we were the only ones who heard the XXXXX remarks about the girl.,2479,NA,NA
+291,noxious,We had no idea whether the material was [noxious] or not.,We had no idea whether the material was XXXXX or not.,2481,NA,NA
+292,noxious,Sometimes you need some experience to tell if something is [noxious].,Sometimes you need some experience to tell if something is XXXXX.,NA,NA,NA
+293,noxious,"Before we left, we looked around for anything that could be [noxious].","Before we left, we looked around for anything that could be XXXXX.",NA,NA,NA
+294,noxious,We will have to wait and see whether Toby's idea is [noxious].,We will have to wait and see whether Toby's idea is XXXXX.,NA,NA,NA
+295,noxious,The doctor decided that it would be best to remove the [noxious] tumor.,The doctor decided that it would be best to remove the XXXXX tumor.,NA,NA,NA
+296,noxious,"Although we rejected the plan, we didn't think it was completely [noxious].","Although we rejected the plan, we didn't think it was completely XXXXX.",NA,NA,NA
+297,noxious,"When people don't think before they tweet, their comments can be [noxious].","When people don't think before they tweet, their comments can be XXXXX.",NA,NA,NA
+298,noxious,We thought that the unfamiliar plant could be a [noxious] weed.,We thought that the unfamiliar plant could be a(n) XXXXX weed.,NA,NA,NA
+299,noxious,Ellen hid the bottle so the kids would not find the [noxious] substance.,Ellen hid the bottle so the kids would not find the XXXXX substance.,NA,NA,NA
+300,noxious,"When you combine certain substances, the result is [noxious].","When you combine certain substances, the result is XXXXX.",NA,NA,NA
+301,noxious,It is dangerous to breathe the [noxious] fumes from idling cars.,It is dangerous to breathe the XXXXX fumes from idling cars.,NA,NA,NA
+302,noxious,"Joe a severe allergy to peanuts, so they were [noxious] for him to eat.","Joe a severe allergy to peanuts, so they were XXXXX for him to eat.",NA,NA,NA
+303,noxious,You can die if you drink bleach because it is highly [noxious].,You can die if you drink bleach because it is highly XXXXX.,NA,NA,NA
+304,noxious,"Lilies are not harmful to humans, but they are [noxious] to cats.","Lilies are not harmful to humans, but they are XXXXX to cats.",2981,NA,NA
+305,noxious,Second-hand smoke from cigarettes is [noxious] and can cause cancer.,Second-hand smoke from cigarettes is XXXXX and can cause cancer.,NA,NA,NA
+306,noxious,Some reptiles are brightly colored to warn other animals that they are [noxious].,Some reptiles are brightly colored to warn other animals that they are XXXXX.,NA,NA,NA
+307,ornery,The man who worked at the store on the corner was usually [ornery].,The man who worked at the store on the corner was usually XXXXX.,3627,NA,NA
+308,ornery,I spent a lot of time thinking about his [ornery] comments.,I spent a lot of time thinking about his XXXXX comments.,NA,NA,NA
+309,ornery,"If you want to succeed in the modern world, you must be [ornery].","If you want to succeed in the modern world, you must be XXXXX.",2849,NA,NA
+310,ornery,The people who ran the company were said to be [ornery].,The people who ran the company were said to be XXXXX.,NA,NA,NA
+311,ornery,After the meeting we were convinced that he is no longer [ornery].,After the meeting we were convinced that he is no longer XXXXX.,NA,NA,NA
+312,ornery,"I did not recognize the person in the photograph, but she looked [ornery].","I did not recognize the person in the photograph, but she looked XXXXX.",NA,NA,NA
+313,ornery,"When I tried to pet the little dog, he became [ornery].","When I tried to pet the little dog, he became XXXXX.",NA,NA,NA
+314,ornery,"Throughout the game, the fighter had an [ornery] expression.","Throughout the game, the fighter had a(n) XXXXX expression.",NA,NA,NA
+315,ornery,"When the mama cat felt threatened, she became [ornery].","When the mama cat felt threatened, she became XXXXX.",NA,NA,NA
+316,ornery,"When Emily was critiqued, she could become quite [ornery].","When Emily was critiqued, she could become quite XXXXX.",NA,NA,NA
+317,ornery,I hid the broken glass because I knew Greg could be [ornery].,I hid the broken glass because I knew Greg could be XXXXX.,NA,NA,NA
+318,ornery,I wanted to know how a nice person like Tricia had become so [ornery].,I wanted to know how a nice person like Tricia had become so XXXXX.,NA,NA,NA
+319,ornery,"Lisa was sweet and kind, but her sister was mean and [ornery].","Lisa was sweet and kind, but her sister was mean and XXXXX.",2852,NA,NA
+320,ornery,The bully picks on smaller kids and is [ornery] even at home.,The bully picks on smaller kids and is XXXXX even at home.,NA,NA,NA
+321,ornery,"Before the dog attacked, he let out an [ornery] growl.","Before the dog attacked, he let out a(n) XXXXX growl.",NA,NA,NA
+322,ornery,Baby leopards look cuddly but they grow up to be [ornery] predators.,Baby leopards look cuddly but they grow up to be XXXXX predators.,3280,NA,NA
+323,ornery,In the business world people can be surprisingly mean and even [ornery].,In the business world people can be surprisingly mean and even XXXXX.,3284,NA,NA
+324,ornery,In the heat of battle a normally nice person can turn [ornery].,In the heat of battle a normally nice person can turn XXXXX.,3282,NA,NA
+325,serenity,Lisa was a perfect example of someone with [serenity].,Lisa was a perfect example of someone with XXXXX.,NA,NA,NA
+326,serenity,When we arrived at his house he wore a look of [serenity].,When we arrived at his house he wore a look of XXXXX.,NA,NA,NA
+327,serenity,Jim started to experience more [serenity] as he grew older.,Jim started to experience more XXXXX as he grew older.,NA,NA,NA
+328,serenity,Sometimes it is harder to find [serenity] than at other times.,Sometimes it is harder to find XXXXX than at other times.,2268,NA,NA
+329,serenity,I have thought about what it would be like to have some [serenity].,I have thought about what it would be like to have some XXXXX.,NA,NA,NA
+330,serenity,My friend and I decided to spend the weekend writing about [serenity].,My friend and I decided to spend the weekend writing about XXXXX.,NA,NA,NA
+331,serenity,"Anne was tired, so she was glad to finally have some [serenity].","Anne was tired, so she was glad to finally have some XXXXX.",NA,NA,NA
+332,serenity,It has not been proven that the color blue brings about [serenity].,It has not been proven that the color blue brings about XXXXX.,NA,NA,NA
+333,serenity,"John was unhappy when he arrived, but he left with a feeling of [serenity].","John was unhappy when he arrived, but he left with a feeling of XXXXX.",NA,NA,NA
+334,serenity,"After my Dad gave me a hug, I experienced greater [serenity].","After my Dad gave me a hug, I experienced greater XXXXX.",NA,NA,NA
+335,serenity,The beauty of nature can bring about a feeling of [serenity].,The beauty of nature can bring about a feeling of XXXXX.,NA,NA,NA
+336,serenity,An experienced counselor can help someone regain some [serenity] after a crisis.,An experienced counselor can help someone regain some XXXXX after a crisis.,NA,NA,NA
+337,serenity,They left the noisy city to enjoy some [serenity] and quiet.,They left the noisy city to enjoy some XXXXX and quiet.,2259,NA,NA
+338,serenity,It's easier to experience some [serenity] when you relax in a quiet place.,It's easier to experience some XXXXX when you relax in a quiet place.,2261,NA,NA
+339,serenity,"A warm, soft breeze and some quiet music helps me experience some [serenity].","A warm, soft breeze and some quiet music helps me experience some XXXXX.",2265,NA,NA
+340,serenity,"Yoga makes gives me a sense of [serenity], which helps me relax.","Yoga makes gives me a sense of XXXXX, which helps me relax.",2821,NA,NA
+341,serenity,"After I sit and meditate, I am filled with a sense of [serenity].","After I sit and meditate, I am filled with a sense of XXXXX.",2260,NA,NA
+342,serenity,"What the world needs now is [serenity], rather than endless war.","What the world needs now is XXXXX, rather than endless war.",NA,NA,NA
+343,sheen,"I do not like artifacts with a lot of [sheen], but some people do.","I do not like artifacts with a lot of XXXXX, but some people do.",2277,NA,NA
+344,sheen,Jessie gave away all the ones with a lot of [sheen].,Jessie gave away all the ones with a lot of XXXXX.,2278,NA,NA
+345,sheen,John asked me to hand him the one with the most [sheen].,John asked me to hand him the one with the most XXXXX.,2279,NA,NA
+346,sheen,My mom asked her to pick the one with the most [sheen].,My mom asked her to pick the one with the most XXXXX.,2280,NA,NA
+347,sheen,The object we discovered did not have a lot of [sheen].,The object we discovered did not have a lot of XXXXX.,2276,NA,NA
+348,sheen,After searching through everything we finally found the one with some [sheen].,After searching through everything we finally found the one with some XXXXX.,NA,NA,NA
+349,sheen,I like jewelry that looks new and has a nice [sheen].,I like jewelry that looks new and has a nice XXXXX.,NA,NA,NA
+350,sheen,The advertisement said that the lotion would give your face a nice [sheen].,The advertisement said that the lotion would give your face a nice XXXXX.,NA,NA,NA
+351,sheen,"After the floor was redone, it had a pleasant [sheen].","After the floor was redone, it had a pleasant XXXXX.",NA,NA,NA
+352,sheen,"Classic candy is colorful and pretty, and has some [sheen].","Classic candy is colorful and pretty, and has some XXXXX.",NA,NA,NA
+353,sheen,Polly thought that her ring had just the right amount of [sheen].,Polly thought that her ring had just the right amount of XXXXX.,NA,NA,NA
+354,sheen,The hair stylist combed some product into my hair to give it some [sheen].,The hair stylist combed some product into my hair to give it some XXXXX.,NA,NA,NA
+355,sheen,His car needed new paint to bring back its original [sheen].,His car needed new paint to bring back its original XXXXX.,2271,NA,NA
+356,sheen,We polished the vase until it had a lovely [sheen].,We polished the vase until it had a lovely XXXXX.,2274,NA,NA
+357,sheen,The diamond had a lot of sparkle and [sheen] in the morning light.,The diamond had a lot of sparkle and XXXXX in the morning light.,2275,NA,NA
+358,sheen,"Even though the dusty glass, we saw that the trophy had a bright [sheen].","Even though the dusty glass, we saw that the trophy had a bright XXXXX.",NA,NA,NA
+359,sheen,"Becky polished the silver every day, so it would keep its [sheen].","Becky polished the silver every day, so it would keep its XXXXX.",NA,NA,NA
+360,sheen,"After we removed the tarnish from the plate, it had a beautiful [sheen].","After we removed the tarnish from the plate, it had a beautiful XXXXX.",NA,NA,NA
+361,disconcert,I was surprised that they found my friend to be so [disconcerting].,I was surprised that they found my friend to be so XXXXX.,NA,NA,NA
+362,disconcert,"After thinking about it, Carl decide that the plan would be [disconcerting].","After thinking about it, Carl decide that the plan would be XXXXX.",NA,NA,NA
+363,disconcert,He can't really imagine what it would be like to be [disconcerted].,He can't really imagine what it would be like to be XXXXX.,NA,NA,NA
+364,disconcert,"Lucy will never admit it, but she finds them [disconcerting].","Lucy will never admit it, but she finds them XXXXX.",NA,NA,NA
+365,disconcert,"After class, the instructor decided she would be hard to [disconcert].","After class, the instructor decided she would be hard to XXXXX.",NA,NA,NA
+366,disconcert,Mark kept the idea to himself because he didn't want to [disconcert] everyone.,Mark kept the idea to himself because he didn't want to XXXXX everyone.,NA,NA,NA
+367,disconcert,"Matt was at ease with friends, but strangers often [disconcerted] him.","Matt was at ease with friends, but strangers often XXXXX him.",NA,NA,NA
+368,disconcert,Singing or dancing in a crowd is [disconcerting] for some people.,Singing or dancing in a crowd is XXXXX for some people.,NA,NA,NA
+369,disconcert,"When John finally raised the issue, people were clearly [disconcerted].","When John finally raised the issue, people were clearly XXXXX.",NA,NA,NA
+370,disconcert,"Dory wasn't afraid of snakes, but she was [disconcerted] by their appearance.","Dory wasn't afraid of snakes, but she was XXXXX by their appearance.",NA,NA,NA
+371,disconcert,"When Joey showed the scar, Ben appeared to be [disconcerted].","When Joey showed the scar, Ben appeared to be XXXXX.",NA,NA,NA
+372,disconcert,The film critic found the movie [disconcerting] and hard to follow.,The film critic found the movie XXXXX and hard to follow.,NA,NA,NA
+373,disconcert,The shy girl was trembling and was clearly [disconcerted] by the question.,The shy girl was trembling and was clearly XXXXX by the question.,NA,NA,NA
+374,disconcert,Sarah couldn't sleep because her problem was so [disconcerting].,Sarah couldn't sleep because her problem was so XXXXX.,NA,NA,NA
+375,disconcert,"Emily was comfortable around dogs, but cats really [disconcerted] her.","Emily was comfortable around dogs, but cats really XXXXX her.",NA,NA,NA
+376,disconcert,"Michael's behavior was increasingly odd, which [disconcerted] his friends and family.","Michael's behavior was increasingly odd, which XXXXX his friends and family.",NA,NA,NA
+377,disconcert,The stranger was so quiet and odd that everyone felt a little [disconcerted].,The stranger was so quiet and odd that everyone felt a little XXXXX.,NA,NA,NA
+378,disconcert,The details of the crime were so [disconcerting] that we didn't know what to say.,The details of the crime were so XXXXX that we didn't know what to say.,NA,NA,NA
+379,discord,Because Kim was so focused she was totally unaware of the [discord].,Because Kim was so focused she was totally unaware of the XXXXX.,3361,NA,NA
+380,discord,Rhonda discovered that there was a lot less [discord] than before.,Rhonda discovered that there was a lot less XXXXX than before.,3360,NA,NA
+381,discord,Some people claim they have never witnessed any [discord].,Some people claim they have never witnessed any XXXXX.,NA,NA,NA
+382,discord,The friends agreed that they would stay until after the [discord].,The friends agreed that they would stay until after the XXXXX.,NA,NA,NA
+383,discord,The issue is complex because are many causes and effects of [discord].,The issue is complex because are many causes and effects of XXXXX.,3362,NA,NA
+384,discord,We had an unspoken agreement that we would not talk about the [discord].,We had an unspoken agreement that we would not talk about the XXXXX.,NA,NA,NA
+385,discord,"Even when life is good, there are always periods of [discord].","Even when life is good, there are always periods of XXXXX.",NA,NA,NA
+386,discord,Poverty and injustice are major sources of [discord] in the world.,Poverty and injustice are major sources of XXXXX in the world.,3352,NA,NA
+387,discord,"In their quest for success, the siblings fell into constant [discord].","In their quest for success, the siblings fell into constant XXXXX.",NA,NA,NA
+388,discord,"Instead of passing laws, politicians seem to engage in constant [discord].","Instead of passing laws, politicians seem to engage in constant XXXXX.",NA,NA,NA
+389,discord,Some people think an ideal family is one without [discord].,Some people think an ideal family is one without XXXXX.,NA,NA,NA
+390,discord,In adolescence young people often experience a lot of [discord].,In adolescence young people often experience a lot of XXXXX.,NA,NA,NA
+391,discord,The rebels caused chaos and did their best to stir up civil [discord].,The rebels caused chaos and did their best to stir up civil XXXXX.,3347,NA,NA
+392,discord,The mayor got worried when peaceful protests turned to angry [discord].,The mayor got worried when peaceful protests turned to angry XXXXX.,NA,NA,NA
+393,discord,Fear and hatred are dangerous because they cause [discord] among people.,Fear and hatred are dangerous because they cause XXXXX among people.,3350,NA,NA
+394,discord,After the war ended they promised peace would replace the constant [discord].,After the war ended they promised peace would replace the constant XXXXX.,3351,NA,NA
+395,discord,"If peace and harmony go together, then so do war and [discord].","If peace and harmony go together, then so do war and XXXXX.",3355,NA,NA
+396,discord,Disagreements can either be resolved peacefully or lead to constant [discord].,Disagreements can either be resolved peacefully or lead to constant XXXXX.,NA,NA,NA
+397,dolor,"Billy sat down, picked up a pen, and began to write about his [dolor].","Billy sat down, picked up a pen, and began to write about his XXXXX.",NA,NA,NA
+398,dolor,"Before the term started, none of us knew about her [dolor].","Before the term started, none of us knew about her XXXXX.",NA,NA,NA
+399,dolor,"Yesterday, Sheila remembered to talk about the importance of [dolor].","Yesterday, Sheila remembered to talk about the importance of XXXXX.",NA,NA,NA
+400,dolor,Todd held his cup of tea while he sat and thought about [dolor].,Todd held his cup of tea while he sat and thought about XXXXX.,NA,NA,NA
+401,dolor,"Tomorrow, we will be reading a book about [dolor] in class.","Tomorrow, we will be reading a book about XXXXX in class.",NA,NA,NA
+402,dolor,She said her parents couldn't decide if they wanted the [dolor] to continue.,She said her parents couldn't decide if they wanted the XXXXX to continue.,1381,NA,NA
+403,dolor,Prisoners of war often suffer from hunger and [dolor].,Prisoners of war often suffer from hunger and XXXXX.,NA,NA,NA
+404,dolor,"The music at the funeral was sad, sweet, and full of [dolor].","The music at the funeral was sad, sweet, and full of XXXXX.",NA,NA,NA
+405,dolor,"The old man was alone, with the rain and his own [dolor].","The old man was alone, with the rain and his own XXXXX.",NA,NA,NA
+406,dolor,"The weather continued, and we were overcome with [dolor].","The weather continued, and we were overcome with XXXXX.",NA,NA,NA
+407,dolor,Mary had never experienced such a strong sense of [dolor].,Mary had never experienced such a strong sense of XXXXX.,NA,NA,NA
+408,dolor,"When we saw the room, he was overcome with [dolor].","When we saw the room, he was overcome with XXXXX.",NA,NA,NA
+409,dolor,Sadness that never seems to go away is known as [dolor].,Sadness that never seems to go away is known as XXXXX.,NA,NA,NA
+410,dolor,The poem is saying that happiness and [dolor] are both part of life.,The poem is saying that happiness and XXXXX are both part of life.,NA,NA,NA
+411,dolor,"The story conveyed a sense of loss, regret, and [dolor].","The story conveyed a sense of loss, regret, and XXXXX.",NA,NA,NA
+412,dolor,"When people lose a loved one, they often experience [dolor].","When people lose a loved one, they often experience XXXXX.",NA,NA,NA
+413,dolor,The pictures of his childhood filled him with [dolor] and regret.,The pictures of his childhood filled him with XXXXX and regret.,NA,NA,NA
+414,dolor,"When his owner failed to return, the old dog experienced much [dolor].","When his owner failed to return, the old dog experienced much XXXXX.",NA,NA,NA
+415,grouse,Kevin's mom says he [grouses] more often than his older sister.,Kevin's mom says he XXXXX more often than his older sister.,2578,NA,NA
+416,grouse,As soon as we had gotten started they decided to [grouse].,As soon as we had gotten started they decided to XXXXX.,3210,NA,NA
+417,grouse,At this time of the year we expect a lot of them to [grouse].,At this time of the year we expect a lot of them to XXXXX.,3209,NA,NA
+418,grouse,Marsha pointed out that it was unusual for them to [grouse].,Marsha pointed out that it was unusual for them to XXXXX.,3208,NA,NA
+419,grouse,In some situations the worst think you can do is to [grouse].,In some situations the worst think you can do is to XXXXX.,NA,NA,NA
+420,grouse,Everyone knew Peter because he was the one who [grouses] the most.,Everyone knew Peter because he was the one who XXXXX the most.,NA,NA,NA
+421,grouse,"Even though the spoiled girl had everything, she still [groused].","Even though the spoiled girl had everything, she still XXXXX.",3063,NA,NA
+422,grouse,"When they don't get what they want, some people [grouse].","When they don't get what they want, some people XXXXX.",1694,NA,NA
+424,grouse,Leslie is a good student and is not one to [grouse].,Leslie is a good student and is not one to XXXXX.,NA,NA,NA
+425,grouse,Dana had a bad reputation of [grousing] among her friends.,Dana had a bad reputation of XXXXX among her friends.,2575,NA,NA
+426,grouse,The students get together after school and [groused] about their lives.,The students get together after school and XXXXX about their lives.,NA,NA,NA
+427,grouse,Rory didn't like what was for dinner and wouldn't stop [grousing] about it.,Rory didn't like what was for dinner and wouldn't stop XXXXX about it.,NA,NA,NA
+428,grouse,"When students find their homework challenging, they often [groused] about it.","When students find their homework challenging, they often XXXXX about it.",1099,NA,NA
+429,grouse,Laura hated dresses and [groused] when her mother asked her to wear one.,Laura hated dresses and XXXXX when her mother asked her to wear one.,NA,NA,NA
+430,grouse,"The kids didn't think their punishment was fair, so they [groused] and sulked.","The kids didn't think their punishment was fair, so they XXXXX and sulked.",NA,NA,NA
+431,grouse,Amy's parents refused to respond when she started to [grouse].,Amy's parents refused to respond when she started to XXXXX.,NA,NA,NA
+432,grouse,"When they were asked to clean up, they started to [grouse].","When they were asked to clean up, they started to XXXXX.",NA,NA,NA
+433,malign,Bill decided that it would not make any sense to [malign] her.,Bill decided that it would not make any sense to XXXXX her.,NA,NA,NA
+434,malign,George believed that he knew the person who had [maligned] him.,George believed that he knew the person who had XXXXX him.,NA,NA,NA
+435,malign,Jim decided that it would be necessary to [malign] his friend.,Jim decided that it would be necessary to XXXXX his friend.,3605,NA,NA
+436,malign,Jim never saw the girl again after he saw her friends [malign] her.,Jim never saw the girl again after he saw her friends XXXXX her.,3603,NA,NA
+437,malign,Joe tried everything he could think of but he was unable to [malign] her.,Joe tried everything he could think of but he was unable to XXXXX her.,NA,NA,NA
+438,malign,Karen was not interested in trying to [malign] someone she had just met.,Karen was not interested in trying to XXXXX someone she had just met.,3233,NA,NA
+439,malign,Helen spread the story about her friend in order to [malign] her.,Helen spread the story about her friend in order to XXXXX her.,3589,NA,NA
+440,malign,Julia leaked the story to the press in order to [malign] him.,Julia leaked the story to the press in order to XXXXX him.,3590,NA,NA
+441,malign,The two men were competitive and were constantly trying to [malign] one another.,The two men were competitive and were constantly trying to XXXXX one another.,NA,NA,NA
+442,malign,Linda called him out for his bad choices in order to [malign] him.,Linda called him out for his bad choices in order to XXXXX him.,3592,NA,NA
+443,malign,"Instead of focusing on issues, politicians use negative ads to [malign] their rivals.","Instead of focusing on issues, politicians use negative ads to XXXXX their rivals.",3594,NA,NA
+444,malign,Sometimes the media spreads gossip to [malign] people.,Sometimes the media spreads gossip to XXXXX people.,NA,NA,NA
+445,malign,The opposition spread nasty rumors in order to [malign] the President.,The opposition spread nasty rumors in order to XXXXX the President.,NA,NA,NA
+446,malign,To win the election they spread the scandal to [malign] the other candidate.,To win the election they spread the scandal to XXXXX the other candidate.,3599,NA,NA
+447,malign,Politicians run negative ads in order to [malign] their opponents.,Politicians run negative ads in order to XXXXX their opponents.,3600,NA,NA
+448,malign,Gossip and lies do more to harm and [malign] the press than censorship.,Gossip and lies do more to harm and XXXXX the press than censorship.,3601,NA,NA
+449,malign,They said the witness was lazy and immoral in order to [malign] her.,They said the witness was lazy and immoral in order to XXXXX her.,NA,NA,NA
+450,malign,"A good debater uses reason and logic, rather than trying to [malign] his rival.","A good debater uses reason and logic, rather than trying to XXXXX his rival.",3598,NA,NA
+451,pilfer,She told her friend that she used to [pilfer] things when she was a kid.,She told her friend that she used to XXXXX things when she was a kid.,2561,NA,NA
+452,pilfer,The man [pilfered] the paperwork from the office before he left.,The man XXXXX the paperwork from the office before he left.,2562,NA,NA
+453,pilfer,They thought that it might have been [pilfered] sometime last week.,They thought that it might have been XXXXX sometime last week.,2563,NA,NA
+454,pilfer,You are likely to fail if you try to [pilfer] anything else.,You are likely to fail if you try to XXXXX anything else.,3207,NA,NA
+455,pilfer,We didn't realize that they had been [pilfered] until this morning.,We didn't realize that they had been XXXXX until this morning.,NA,NA,NA
+456,pilfer,Nobody understands why they were [pilfered] last week.,Nobody understands why they were XXXXX last week.,NA,NA,NA
+457,pilfer,Bob did not think it would be necessary to [pilfer] the item.,Bob did not think it would be necessary to XXXXX the item.,2564,NA,NA
+458,pilfer,Sam said he would have a million dollars if he [pilfered] it.,Sam said he would have a million dollars if he XXXXX it.,3057,NA,NA
+459,pilfer,"The keys were missing, but nobody had [pilfered] them.","The keys were missing, but nobody had XXXXX them.",NA,NA,NA
+460,pilfer,"On occasion, the man [pilfered] food from the restaurant.","On occasion, the man XXXXX food from the restaurant.",NA,NA,NA
+461,pilfer,Our teachers and parents taught us not to [pilfer] them.,Our teachers and parents taught us not to XXXXX them.,NA,NA,NA
+462,pilfer,We didn't know what to do after they [pilfered] the monkey.,We didn't know what to do after they XXXXX the monkey.,1108,NA,NA
+463,pilfer,The burglar was caught by police while trying to [pilfer] the jewelry.,The burglar was caught by police while trying to XXXXX the jewelry.,2555,NA,NA
+464,pilfer,Someone broke into our house and [pilfered] all our valuables.,Someone broke into our house and XXXXX all our valuables.,2556,NA,NA
+465,pilfer,The child was punished for trying to [pilfer] candy from the store.,The child was punished for trying to XXXXX candy from the store.,2557,NA,NA
+466,pilfer,The thief went to jail for [pilfering] money from tourists.,The thief went to jail for XXXXX money from tourists.,2558,NA,NA
+467,pilfer,The woman was arrested when they found the shoes she [pilfered] from the store.,The woman was arrested when they found the shoes she XXXXX from the store.,2559,NA,NA
+468,pilfer,He was arrested even though he swore that he didn't [pilfer] the wallet.,He was arrested even though he swore that he didn't XXXXX the wallet.,NA,NA,NA
+469,poise,Chris didn't really have very much [poise] this afternoon.,Chris didn't really have very much XXXXX this afternoon.,NA,NA,NA
+470,poise,Most people in the group had heard about the girl's [poise].,Most people in the group had heard about the girl's XXXXX.,NA,NA,NA
+471,poise,I saw her walk across the street with more [poise] than I expected.,I saw her walk across the street with more XXXXX than I expected.,NA,NA,NA
+472,poise,I don't think it's necessary to have [poise] all the time.,I don't think it's necessary to have XXXXX all the time.,NA,NA,NA
+473,poise,Martha spent the entire day writing about [poise] in her diary.,Martha spent the entire day writing about XXXXX in her diary.,NA,NA,NA
+474,poise,Sometimes it can be surprisingly easy for you to lose your [poise].,Sometimes it can be surprisingly easy for you to lose your XXXXX.,NA,NA,NA
+475,poise,"When Eliza had finished her training, she had greater [poise].","When Eliza had finished her training, she had greater XXXXX.",NA,NA,NA
+476,poise,The surgeon demonstrated skill and a great deal of [poise] amid the crisis.,The surgeon demonstrated skill and a great deal of XXXXX amid the crisis.,NA,NA,NA
+477,poise,Famous people are expected to tolerate their fans with friendliness and [poise].,Famous people are expected to tolerate their fans with friendliness and XXXXX.,NA,NA,NA
+478,poise,Girls are sent to charm school to develop grace and [poise].,Girls are sent to charm school to develop grace and XXXXX.,NA,NA,NA
+479,poise,The crane flew with remarkable [poise] considering its injuries.,The crane flew with remarkable XXXXX considering its injuries.,NA,NA,NA
+480,poise,Learning to dance can help you increase your [poise].,Learning to dance can help you increase your XXXXX.,NA,NA,NA
+481,poise,Her smooth gestures and speech suggested natural [poise].,Her smooth gestures and speech suggested natural XXXXX.,NA,NA,NA
+482,poise,"A top ice skater must have strength, agility, and [poise].","A top ice skater must have strength, agility, and XXXXX.",NA,NA,NA
+483,poise,"He is running for office, but he is rude and lacks [poise].","He is running for office, but he is rude and lacks XXXXX.",NA,NA,NA
+484,poise,"Although her house went up in flames, she kept her [poise].","Although her house went up in flames, she kept her XXXXX.",NA,NA,NA
+485,poise,"Public speakers need to keep their [poise], even when they're anxious or nervous.","Public speakers need to keep their XXXXX, even when they're anxious or nervous.",NA,NA,NA
+486,poise,Years of acrobatic training had given her flexibility and [poise].,Years of acrobatic training had given her flexibility and XXXXX.,NA,NA,NA
+487,pontificate,Carl thought that his friend was used to [pontificating].,Carl thought that his friend was used to XXXXX.,NA,NA,NA
+488,pontificate,We found out that that there was no time left to [pontificate].,We found out that that there was no time left to XXXXX.,NA,NA,NA
+489,pontificate,Everyone was surprised last week when Greg started to [pontificate].,Everyone was surprised last week when Greg started to XXXXX.,NA,NA,NA
+490,pontificate,Amy worked hard so she would be ready to [pontificate].,Amy worked hard so she would be ready to XXXXX.,NA,NA,NA
+491,pontificate,Richard decided that now would not be the best time to [pontificate].,Richard decided that now would not be the best time to XXXXX.,NA,NA,NA
+492,pontificate,Tara didn't understand why Bill had started to [pontificate].,Tara didn't understand why Bill had started to XXXXX.,NA,NA,NA
+493,pontificate,"When the customer got her meal, she started to [pontificate].","When the customer got her meal, she started to XXXXX.",NA,NA,NA
+494,pontificate,"Mary had planned to have a discussion, but then she started to [pontificate].","Mary had planned to have a discussion, but then she started to XXXXX.",NA,NA,NA
+496,pontificate,Adolescents are least likely to listen when their parents start to [pontificate].,Adolescents are least likely to listen when their parents start to XXXXX.,NA,NA,NA
+497,pontificate,Congress has a stage they use to [pontificate] about what's wrong with everything.,Congress has a stage they use to XXXXX about what's wrong with everything.,NA,NA,NA
+498,pontificate,Talk-show hosts love to [pontificate] about the evils of government.,Talk-show hosts love to XXXXX about the evils of government.,NA,NA,NA
+500,pontificate,The same politicians who are unwilling to negotiate like to [pontificate] about 'compromise'.,The same politicians who are unwilling to negotiate like to XXXXX about 'compromise'.,NA,NA,NA
+501,pontificate,"Sally likes to give long lectures, i.e., to [pontificate] about everything.","Sally likes to give long lectures, i.e., to XXXXX about everything.",NA,NA,NA
+502,pontificate,"Whenever his son failed, the dad would [pontificate] about it for hours.","Whenever his son failed, the dad would XXXXX about it for hours.",NA,NA,NA
+503,pontificate,The Professor ignored questions and [pontificated] for the whole hour.,The Professor ignored questions and XXXXX for the whole hour.,NA,NA,NA
+504,pontificate,The governor got his way by [pontificating] for hours and dismissing questions.,The governor got his way by XXXXX for hours and dismissing questions.,NA,NA,NA
+505,rakish,All the people stood around and talked about the [rakish] young man.,All the people stood around and talked about the XXXXXyoung man.,NA,NA,NA
+506,rakish,"As long as I've known him, Joe has been a little bit [rakish].","As long as I've known him, Joe has been a little bit XXXXX.",3567,NA,NA
+507,raffish,Colin had no idea that people thought he was really [raffish].,Colin had no idea that people thought he was really XXXXX.,NA,NA,NA
+508,raffish,Mary was not surprised to discover that he was [raffish] like they said.,Mary was not surprised to discover that he was XXXXX like they said.,NA,NA,NA
+509,raffish,My friends told me that the new kid in school was [raffish].,My friends told me that the new kid in school was XXXXX.,NA,NA,NA
+510,raffish,There was no way to tell whether or not the man was [raffish].,There was no way to tell whether or not the man was XXXXX.,NA,NA,NA
+511,rakish,The rich lawyer thought the boy looked [rakish] and rebellious.,The rich lawyer thought the boy looked XXXXX and rebellious.,3554,NA,NA
+512,rakish,"In Pirates of the Caribbean, Johnny Depp plays a [rakish] pirate.","In Pirates of the Caribbean, Johnny Depp plays a(n) XXXXX pirate.",3555,NA,NA
+513,rakish,Some guys drive a motorcycle to appear tough and [rakish].,Some guys drive a motorcycle to appear tough and XXXXX.,3556,NA,NA
+514,rakish,The boy tried to impress his friends with his [rakish] look and attitude.,The boy tried to impress his friends with his XXXXX look and attitude.,3558,NA,NA
+515,rakish,The rock star got a slamming outfit and a [rakish] new hair style.,The rock star got a slamming outfit and a(n) XXXXX new hair style.,NA,NA,NA
+516,rakish,The hustler cons girls into believing him with his [rakish] good looks.,The hustler cons girls into believing him with his XXXXX good looks.,3564,NA,NA
+517,rakish,Jack Kerouac was a beatnik poet who was [rakish] and rebellious.,Jack Kerouac was a beatnik poet who was XXXXX and rebellious.,3561,NA,NA
+518,rakish,A bohemian is a person who is free-spirited and [rakish].,A bohemian is a person who is free-spirited and XXXXX.,3563,NA,NA
+519,rakish,"Charles was a charmer who was quirky, [rakish], and oddly attractive.","Charles was a charmer who was quirky, XXXXX, and oddly attractive.",3565,NA,NA
+520,rakish,Brad was free-spirited and students thought he was [rakish] and cool.,Brad was free-spirited and students thought he was XXXXX and cool.,NA,NA,NA
+521,rakish,"Susan's father disliked her boyfriend, because he had a carefree, [rakish] look.","Susan's father disliked her boyfriend, because he had a carefree, XXXXX look.",NA,NA,NA
+522,raffish,Some girls are attracted to men who are [raffish] and unconventional.,Some girls are attracted to men who are XXXXX and unconventional.,NA,NA,NA
+523,recluse,Clara had once heard that her new neighbor was a [recluse].,Clara had once heard that her new neighbor was a(n) XXXXX.,NA,NA,NA
+524,recluse,"As he crossed the street, he thought about the [recluse].","As he crossed the street, he thought about the XXXXX.",NA,NA,NA
+525,recluse,We weren't able to tell if the man was a [recluse] or not.,We weren't able to tell if the man was a(n) XXXXX or not.,NA,NA,NA
+526,recluse,Something David said last night made me think he was a [recluse].,Something David said last night made me think he was a(n) XXXXX.,NA,NA,NA
+527,recluse,Her grandfather told us that he thought the book's writer was a [recluse].,Her grandfather told us that he thought the book's writer was a(n) XXXXX.,NA,NA,NA
+528,recluse,It's hard to really know if people think you are a [recluse].,It's hard to really know if people think you are a(n) XXXXX.,NA,NA,NA
+529,recluse,Harry is not just shy -- he's a mean old [recluse].,Harry is not just shy -- he's a mean old XXXXX.,3289,NA,NA
+530,recluse,The old man refused to have visitors so people called him a [recluse].,The old man refused to have visitors so people called him a(n) XXXXX.,NA,NA,NA
+531,recluse,"Mary broke off her friendships, moved away, and eventually became a [recluse].","Mary broke off her friendships, moved away, and eventually became a(n) XXXXX.",3291,NA,NA
+532,recluse,Susan was so quiet that people thought she was a [recluse].,Susan was so quiet that people thought she was a(n) XXXXX.,3293,NA,NA
+533,recluse,Max did not like to be bothered because he was a [recluse].,Max did not like to be bothered because he was a(n) XXXXX.,3295,NA,NA
+534,recluse,Tom prefers the woods to the city because he's a [recluse].,Tom prefers the woods to the city because he's a(n) XXXXX.,3296,NA,NA
+535,recluse,Pete lives by himself and avoids people so the townspeople think he's a [recluse].,Pete lives by himself and avoids people so the townspeople think he's a(n) XXXXX.,3285,NA,NA
+536,recluse,Cathy had no friends because she was a mean old [recluse].,Cathy had no friends because she was a mean old XXXXX.,3286,NA,NA
+537,recluse,Joanne likes being alone and doesn't trust people because she's a [recluse].,Joanne likes being alone and doesn't trust people because she's a(n) XXXXX.,3287,NA,NA
+538,recluse,"Greg likes to be left alone because he's a [recluse], which means he dislikes people.","Greg likes to be left alone because he's a(n) XXXXX, which means he dislikes people.",3288,NA,NA
+539,recluse,"The old man disliked other people, the definition of a [recluse].","The old man disliked other people, the definition of a(n) XXXXX.",3292,NA,NA
+540,recluse,"Mandy has twenty cats and no family, a typical [recluse].","Mandy has twenty cats and no family, a typical XXXXX.",3294,NA,NA
+541,recreant,Bill said that the man down the street is actually a [recreant].,Bill said that the man down the street is actually a(n) XXXXX.,2549,NA,NA
+542,recreant,The man who moved to China was a [recreant].,The man who moved to China was a(n) XXXXX.,NA,NA,NA
+544,recreant,One of my friends from high school has become a [recreant].,One of my friends from high school has become a(n) XXXXX.,2552,NA,NA
+545,recreant,Morgan did not know Bob but she thought he was a [recreant].,Morgan did not know Bob but she thought he was a(n) XXXXX.,NA,NA,NA
+546,recreant,"Some people think he's a [recreant], and others do not.","Some people think he's a(n) XXXXX, and others do not.",NA,NA,NA
+547,recreant,The police followed the man because they thought he was a [recreant].,The police followed the man because they thought he was a(n) XXXXX.,NA,NA,NA
+548,recreant,John was a [recreant] and could not be trusted to keep the information secret.,John was a(n) XXXXX and could not be trusted to keep the information secret.,3048,NA,NA
+549,recreant,"If you talk about someone behind their back, you might be a [recreant].","If you talk about someone behind their back, you might be a(n) XXXXX.",3049,NA,NA
+550,recreant,"Some people are secretive, but that doesn't mean they're all [recreant].","Some people are secretive, but that doesn't mean they're all XXXXX.",1117,NA,NA
+552,recreant,"Becky became friends with our enemy, so now we think she's a [recreant].","Becky became friends with our enemy, so now we think she's a(n) XXXXX.",2543,NA,NA
+553,recreant,"She sold secrets to the enemy, so we knew she was a [recreant].","She sold secrets to the enemy, so we knew she was a(n) XXXXX.",NA,NA,NA
+554,recreant,"After Jim betrayed his family's trust, they treated him like a [recreant].","After Jim betrayed his family's trust, they treated him like a(n) XXXXX.",NA,NA,NA
+555,recreant,"The spy sold secrets to Russia, so he was branded as a [recreant].","The spy sold secrets to Russia, so he was branded as a(n) XXXXX.",558,NA,NA
+556,recreant,"A true friend is loyal, but one who betrays you is a [recreant].","A true friend is loyal, but one who betrays you is a(n) XXXXX.",NA,NA,NA
+557,recreant,We never trusted him because he was a [recreant] and betrayed his family.,We never trusted him because he was a(n) XXXXX and betrayed his family.,2548,NA,NA
+558,recreant,The spy sold secrets to both countries because he was a [recreant].,The spy sold secrets to both countries because he was a(n) XXXXX.,555,NA,NA
+559,reticent,Most people at work are not as [reticent] as Amy.,Most people at work are not as XXXXX as Amy.,NA,NA,NA
+560,reticent,"For days after the event, the little boy was [reticent].","For days after the event, the little boy was XXXXX.",NA,NA,NA
+561,reticent,The [reticent] girl appeared to help wash the dishes without being asked.,The XXXXX girl appeared to help wash the dishes without being asked.,2161,NA,NA
+562,reticent,To complete the assignment she drew a portrait of the girl who was [reticent].,To complete the assignment she drew a portrait of the girl who was XXXXX.,3176,NA,NA
+563,reticent,The young girl who sat in the front of the class was [reticent].,The young girl who sat in the front of the class was XXXXX.,NA,NA,NA
+564,reticent,"Compared with other people in our group, Kim is more [reticent].","Compared with other people in our group, Kim is more XXXXX.",NA,NA,NA
+565,reticent,Midwestern people have a reputation for being [reticent].,Midwestern people have a reputation for being XXXXX.,NA,NA,NA
+566,reticent,I wonder what my boyfriend is thinking when he is [reticent].,I wonder what my boyfriend is thinking when he is XXXXX.,NA,NA,NA
+567,reticent,"During the town meeting, most of the people were [reticent].","During the town meeting, most of the people were XXXXX.",NA,NA,NA
+568,reticent,"Throughout the court case, the defendant was mostly [reticent].","Throughout the court case, the defendant was mostly XXXXX.",NA,NA,NA
+569,reticent,"The captive was worried and frightened, but he stayed [reticent].","The captive was worried and frightened, but he stayed XXXXX.",NA,NA,NA
+570,reticent,You can argue for your release or you can be [reticent].,You can argue for your release or you can be XXXXX.,NA,NA,NA
+571,reticent,"Tricia is always outspoken, never [reticent] or restrained.","Tricia is always outspoken, never XXXXX or restrained.",NA,NA,NA
+572,reticent,We talked quietly when we realized that everyone else was [reticent].,We talked quietly when we realized that everyone else was XXXXX.,NA,NA,NA
+573,reticent,"The neighbors complained about noise, no matter how [reticent] we were.","The neighbors complained about noise, no matter how XXXXX we were.",2154,NA,NA
+574,reticent,"She asked him for an answer, but he kept [reticent] and refused to speak.","She asked him for an answer, but he kept XXXXX and refused to speak.",2155,NA,NA
+575,reticent,"It was hard to get Jane to talk, because was typically so [reticent].","It was hard to get Jane to talk, because was typically so XXXXX.",1119,NA,NA
+576,reticent,Everyone knows you have to be [reticent] during church.,Everyone knows you have to be XXXXX during church.,2765,NA,NA
+577,robust,We knew we had to find out whether or not it was [robust].,We knew we had to find out whether or not it was XXXXX.,NA,NA,NA
+578,robust,Everyone tells me that my sister is much more [robust] than I am.,Everyone tells me that my sister is much more XXXXX than I am.,2526,NA,NA
+579,robust,"I tried many different kinds, and I found that some were more[robust] than others.","I tried many different kinds, and I found that some were moreXXXXX than others.",2527,NA,NA
+580,robust,The judges had to decide which one was most [robust].,The judges had to decide which one was most XXXXX.,2528,NA,NA
+581,robust,"I think Richard is more [robust] than Ben, but Alice disagrees.","I think Richard is more XXXXX than Ben, but Alice disagrees.",2530,NA,NA
+582,robust,"Rose may be small for her age, but she is very [robust].","Rose may be small for her age, but she is very XXXXX.",3037,NA,NA
+583,robust,"Even though we covered our noses, we could still smell her [robust] perfume.","Even though we covered our noses, we could still smell her XXXXX perfume.",2522,NA,NA
+584,robust,"The treatment seemed to work wonders, so we thought it was [robust].","The treatment seemed to work wonders, so we thought it was XXXXX.",NA,NA,NA
+585,robust,When I cook I like to use spices that are [robust].,When I cook I like to use spices that are XXXXX.,NA,NA,NA
+586,robust,Riley argued that Superman was more [robust] than Spiderman.,Riley argued that Superman was more XXXXX than Spiderman.,2519,NA,NA
+587,robust,"Even after I bathed, I could still detect the [robust] smell of cigarettes.","Even after I bathed, I could still detect the XXXXX smell of cigarettes.",2521,NA,NA
+588,robust,Superheroes are known for being brave and [robust].,Superheroes are known for being brave and XXXXX.,3035,NA,NA
+589,robust,I could not eat the soup because the taste of vinegar was too [robust].,I could not eat the soup because the taste of vinegar was too XXXXX.,2520,NA,NA
+590,robust,"Grandma told me that if I ate vegetables, I would grow up to be [robust].","Grandma told me that if I ate vegetables, I would grow up to be XXXXX.",3036,NA,NA
+591,robust,Munster was once called Monster Cheese because of its [robust] taste and smell.,Munster was once called Monster Cheese because of its XXXXX taste and smell.,NA,NA,NA
+592,robust,Robusta coffee got its name because of its [robust] and somewhat bitter taste.,Robusta coffee got its name because of its XXXXX and somewhat bitter taste.,NA,NA,NA
+593,robust,"The winning horse was tall and [robust], with huge muscles.","The winning horse was tall and XXXXX, with huge muscles.",NA,NA,NA
+594,robust,"If you're a farmer you have to be [robust], not weak.","If you're a farmer you have to be XXXXX, not weak.",NA,NA,NA
+595,stifle,"After we leave, there's no need to [stifle] it any longer.","After we leave, there's no need to XXXXX it any longer.",NA,NA,NA
+596,stifle,We weren't sure what to do if we were asked to [stifle] it.,We weren't sure what to do if we were asked to XXXXX it.,NA,NA,NA
+597,stifle,The whole team agreed to [stifle] it as soon as possible.,The whole team agreed to XXXXX it as soon as possible.,2136,NA,NA
+598,stifle,We wanted to help but we couldn't figure out how to [stifle] it.,We wanted to help but we couldn't figure out how to XXXXX it.,NA,NA,NA
+599,stifle,"After everyone else had left, Sally could no longer [stifle] it.","After everyone else had left, Sally could no longer XXXXX it.",NA,NA,NA
+600,stifle,"If you wait a while, you should be able to [stifle] it.","If you wait a while, you should be able to XXXXX it.",NA,NA,NA
+601,stifle,"No one else was laughing, so the girl [stifled] her giggle.","No one else was laughing, so the girl XXXXX her giggle.",NA,NA,NA
+602,stifle,Ellen thought she would enjoy the trip if she could [stifle] her concerns.,Ellen thought she would enjoy the trip if she could XXXXX her concerns.,NA,NA,NA
+603,stifle,"Kelly didn't want her friend to hear the rumor, so she tried to [stifle] it.","Kelly didn't want her friend to hear the rumor, so she tried to XXXXX it.",NA,NA,NA
+604,stifle,"Mandy didn't want to make a scene, so she [stifled] her feelings.","Mandy didn't want to make a scene, so she XXXXX her feelings.",NA,NA,NA
+605,stifle,Lisa asked her neighbor to [stifle] the barking of her dog.,Lisa asked her neighbor to XXXXX the barking of her dog.,2754,NA,NA
+606,stifle,"Bob knew he should stop sneezing, but he couldn't [stifle] it.","Bob knew he should stop sneezing, but he couldn't XXXXX it.",NA,NA,NA
+607,stifle,Lucy fed the baby some milk to [stifle] his crying.,Lucy fed the baby some milk to XXXXX his crying.,2132,NA,NA
+608,stifle,"John covered his mouth, but he couldn't [stifle] the powerful sneeze.","John covered his mouth, but he couldn't XXXXX the powerful sneeze.",2131,NA,NA
+609,stifle,"Cindy knew she should be quite, so she tried to [stifle] her crying.","Cindy knew she should be quite, so she tried to XXXXX her crying.",1126,NA,NA
+610,stifle,"Greg was embarrassed about his rumbling stomach, so he tried to [stifle] the sound.","Greg was embarrassed about his rumbling stomach, so he tried to XXXXX the sound.",NA,NA,NA
+612,stifle,"If you want to spare his feelings, then [stifle] your criticism.","If you want to spare his feelings, then XXXXX your criticism.",NA,NA,NA
+613,surly,The actor tried hard to pretend that he was not [surly] on stage.,The actor tried hard to pretend that he was not XXXXX on stage.,2336,NA,NA
+614,surly,By the end of the meeting Tom had become more [surly].,By the end of the meeting Tom had become more XXXXX.,3245,NA,NA
+615,surly,After the game it was obvious that the boys were [surly].,After the game it was obvious that the boys were XXXXX.,NA,NA,NA
+616,surly,It would be surprising if you found them to be [surly].,It would be surprising if you found them to be XXXXX.,3195,NA,NA
+617,surly,Jim took a long to paint the picture of the man that was [surly].,Jim took a long to paint the picture of the man that was XXXXX.,3196,NA,NA
+618,surly,"The bus was crowded, so I sat across from the [surly] passenger.","The bus was crowded, so I sat across from the XXXXX passenger.",NA,NA,NA
+619,surly,Owen kept poking her until she became [surly] and left.,Owen kept poking her until she became XXXXX and left.,2327,NA,NA
+620,surly,Katie did not believe Phil was [surly] until he yelled at her.,Katie did not believe Phil was XXXXX until he yelled at her.,2330,NA,NA
+621,surly,We left her alone since she was so [surly] about losing.,We left her alone since she was so XXXXX about losing.,2331,NA,NA
+622,surly,You could tell by her behavior that she was [surly] this morning.,You could tell by her behavior that she was XXXXX this morning.,2333,NA,NA
+623,surly,"When Todd left the house this morning, he didn't seem [surly].","When Todd left the house this morning, he didn't seem XXXXX.",NA,NA,NA
+624,surly,I learned that John is more [surly] about the show than I thought.,I learned that John is more XXXXX about the show than I thought.,2335,NA,NA
+625,surly,When my sister borrows my things without asking I become [surly].,When my sister borrows my things without asking I become XXXXX.,NA,NA,NA
+626,surly,"Everyone else seemed happy, so Jake was sorry that Tina appeared [surly].","Everyone else seemed happy, so Jake was sorry that Tina appeared XXXXX.",NA,NA,NA
+627,surly,"My father has had a hard life, but he is rarely [surly].","My father has had a hard life, but he is rarely XXXXX.",NA,NA,NA
+628,surly,"After I was fired, I became more distant and [surly].","After I was fired, I became more distant and XXXXX.",NA,NA,NA
+629,surly,Nikki's mean jokes made Jill [surly] enough to hit her.,Nikki's mean jokes made Jill XXXXX enough to hit her.,2328,NA,NA
+630,surly,"He yelled a lot when he was [surly], causing friends to avoid him.","He yelled a lot when he was XXXXX, causing friends to avoid him.",2332,NA,NA
+631,temperance,He has been working on his [temperance] for most of his adult life.,He has been working on his XXXXX for most of his adult life.,2216,NA,NA
+632,temperance,Bill did not seem to think that Michelle had a lot of [temperance].,Bill did not seem to think that Michelle had a lot of XXXXX.,2217,NA,NA
+633,temperance,Everyone at the office tried to show their [temperance].,Everyone at the office tried to show their XXXXX.,NA,NA,NA
+634,temperance,Our assignment was to write an essay that was focused on [temperance].,Our assignment was to write an essay that was focused on XXXXX.,NA,NA,NA
+635,temperance,My friend said that she used to have a lot of [temperance].,My friend said that she used to have a lot of XXXXX.,NA,NA,NA
+636,temperance,We didn't realize that Joan had so little [temperance].,We didn't realize that Joan had so little XXXXX.,NA,NA,NA
+637,temperance,"She wanted new shoes, but she used [temperance] and only bought socks.","She wanted new shoes, but she used XXXXX and only bought socks.",2211,NA,NA
+638,temperance,"John drank too much, lost his [temperance], and began acting silly.","John drank too much, lost his XXXXX, and began acting silly.",2214,NA,NA
+639,temperance,"Jeannette doesn't worry that she'll overeat, because she has [temperance].","Jeannette doesn't worry that she'll overeat, because she has XXXXX.",NA,NA,NA
+640,temperance,"When you are tired and bored, it is harder to exercise your [temperance].","When you are tired and bored, it is harder to exercise your XXXXX.",NA,NA,NA
+641,temperance,"If you want to achieve good results, then you'll need to exercise [temperance].","If you want to achieve good results, then you'll need to exercise XXXXX.",NA,NA,NA
+642,temperance,Sometimes people can lose their [temperance] in public places.,Sometimes people can lose their XXXXX in public places.,2220,NA,NA
+643,temperance,The hungry dieter resisted the cake because she had strong [temperance].,The hungry dieter resisted the cake because she had strong XXXXX.,NA,NA,NA
+644,temperance,Children can resist opening presents before Christmas if they have [temperance].,Children can resist opening presents before Christmas if they have XXXXX.,2213,NA,NA
+645,temperance,Sally refused the bribe because she had strong morals and [temperance].,Sally refused the bribe because she had strong morals and XXXXX.,NA,NA,NA
+646,temperance,I can control my urges because I have good [temperance].,I can control my urges because I have good XXXXX.,2799,NA,NA
+647,temperance,Carol chose an apple instead of a cookie because she has [temperance].,Carol chose an apple instead of a cookie because she has XXXXX.,NA,NA,NA
+648,temperance,It's hard for children to control themselves because they have weak [temperance].,It's hard for children to control themselves because they have weak XXXXX.,NA,NA,NA
+649,umbrage,"When he walked in, it was clear he had taken [umbrage].","When he walked in, it was clear he had taken XXXXX.",NA,NA,NA
+650,umbrage,Nobody cares whether you do or do not take [umbrage].,Nobody cares whether you do or do not take XXXXX.,NA,NA,NA
+651,umbrage,The children didn't realize that the [umbrage] was real.,The children didn't realize that the XXXXX was real.,NA,NA,NA
+652,umbrage,It's not usually very helpful to take [umbrage] at dinner.,It's not usually very helpful to take XXXXX at dinner.,NA,NA,NA
+653,umbrage,"Nobody made a move to get up, despite his [umbrage].","Nobody made a move to get up, despite his XXXXX.",NA,NA,NA
+654,umbrage,There are lots of things that can cause people to take [umbrage].,There are lots of things that can cause people to take XXXXX.,NA,NA,NA
+655,umbrage,It's not surprising that some of the people expressed [umbrage].,It's not surprising that some of the people expressed XXXXX.,NA,NA,NA
+656,umbrage,The protesters expressed their [umbrage] by striking and chanting slogans.,The protesters expressed their XXXXX by striking and chanting slogans.,2355,NA,NA
+657,umbrage,When the unions were banned the workers all took [umbrage].,When the unions were banned the workers all took XXXXX.,NA,NA,NA
+658,umbrage,It's hard to talk with someone when they take [umbrage] with everything.,It's hard to talk with someone when they take XXXXX with everything.,NA,NA,NA
+659,umbrage,I asked my friend not to take [umbrage] at the suggestion.,I asked my friend not to take XXXXX at the suggestion.,NA,NA,NA
+660,umbrage,Her frowning face expressed [umbrage] after she was splashed with mud.,Her frowning face expressed XXXXX after she was splashed with mud.,2351,NA,NA
+661,umbrage,Dad does not hold in his [umbrage]; he yells at us whenever he's upset.,Dad does not hold in his XXXXX; he yells at us whenever he's upset.,2901,NA,NA
+662,umbrage,"Martin is yelling, so he must have taken [umbrage] at the remark.","Martin is yelling, so he must have taken XXXXX at the remark.",NA,NA,NA
+663,umbrage,Her fingers were clenched into fists and she was shaking with [umbrage].,Her fingers were clenched into fists and she was shaking with XXXXX.,2905,NA,NA
+664,umbrage,The mother shows her [umbrage] by shouting when her kids behave badly.,The mother shows her XXXXX by shouting when her kids behave badly.,2352,NA,NA
+665,umbrage,"When the workers threatened to strike, the boss really took [umbrage].","When the workers threatened to strike, the boss really took XXXXX.",NA,NA,NA
+666,umbrage,"When Michael Brown was killed by police, almost everyone took [umbrage].","When Michael Brown was killed by police, almost everyone took XXXXX.",NA,NA,NA
+667,uncouth,"Bob did not consider himself [uncouth], but many others he worked with did.","Bob did not consider himself XXXXX, but many others he worked with did.",2312,NA,NA
+668,uncouth,Her mother was surprised to find out that her daughter's friends were [uncouth].,Her mother was surprised to find out that her daughter's friends were XXXXX.,2314,NA,NA
+669,uncouth,Janet was surprised when she discovered that the child was so [uncouth].,Janet was surprised when she discovered that the child was so XXXXX.,NA,NA,NA
+670,uncouth,John considered whether or not to choose the one that was [uncouth].,John considered whether or not to choose the one that was XXXXX.,3192,NA,NA
+671,uncouth,Sometimes people disagree about whether or not they're [uncouth].,Sometimes people disagree about whether or not they're XXXXX.,3191,NA,NA
+672,uncouth,In the photograph I was sitting next to an [uncouth] friend.,In the photograph I was sitting next to a(n) XXXXX friend.,NA,NA,NA
+673,uncouth,The guests were offended when they were accused of being [uncouth].,The guests were offended when they were accused of being XXXXX.,NA,NA,NA
+674,uncouth,"The kids were asked to behave at the party, but they were deliberately [uncouth].","The kids were asked to behave at the party, but they were deliberately XXXXX.",NA,NA,NA
+675,uncouth,Different cultures think that different actions are [uncouth].,Different cultures think that different actions are XXXXX.,2861,NA,NA
+676,uncouth,Janet thought their substitute teacher the other day was [uncouth].,Janet thought their substitute teacher the other day was XXXXX.,2309,NA,NA
+677,uncouth,The student was considered [uncouth] by all of her high school teachers.,The student was considered XXXXX by all of her high school teachers.,2310,NA,NA
+678,uncouth,"Hippies are generally carefree, but that doesn't mean they are [uncouth].","Hippies are generally carefree, but that doesn't mean they are XXXXX.",NA,NA,NA
+679,uncouth,Burping at the dinner table is considered [uncouth] in Western cultures.,Burping at the dinner table is considered XXXXX in Western cultures.,NA,NA,NA
+680,uncouth,If you do not say 'please' and 'thank you' some people might think you're [uncouth].,If you do not say 'please' and 'thank you' some people might think you're XXXXX.,NA,NA,NA
+681,uncouth,"Interrupting someone, even a friend, is considered [uncouth] in many regions.","Interrupting someone, even a friend, is considered XXXXX in many regions.",NA,NA,NA
+683,uncouth,"When I place my elbows on the dinner table, my mother says it's [uncouth].","When I place my elbows on the dinner table, my mother says it's XXXXX.",NA,NA,NA
+684,uncouth,"When you pile onto the elevator before passengers have exited, it's very [uncouth].","When you pile onto the elevator before passengers have exited, it's very XXXXX.",NA,NA,NA
+685,undermine,Before the meeting started they talked about how to [undermine] it.,Before the meeting started they talked about how to XXXXX it.,3257,NA,NA
+686,undermine,The consultant told us that if we persisted we would probably [undermine] it.,The consultant told us that if we persisted we would probably XXXXX it.,3253,NA,NA
+687,undermine,The guy said that it would be hard to [undermine] them.,The guy said that it would be hard to XXXXX them.,NA,NA,NA
+688,undermine,There are several ways to tell whether or not it has been [undermined].,There are several ways to tell whether or not it has been XXXXX.,3258,NA,NA
+689,undermine,We couldn't figure out how they had [undermined] it.,We couldn't figure out how they had XXXXX it.,NA,NA,NA
+690,undermine,When we arrived we thought that everyone had been [undermined].,When we arrived we thought that everyone had been XXXXX.,NA,NA,NA
+691,undermine,Lindsay found that her confidence was [undermined] by the feedback.,Lindsay found that her confidence was XXXXX by the feedback.,NA,NA,NA
+692,undermine,The fear of failure [undermined] my will to complete the homework.,The fear of failure XXXXX my will to complete the homework.,NA,NA,NA
+693,undermine,The injury to my back [undermined] my plans to work in construction.,The injury to my back XXXXX my plans to work in construction.,3244,NA,NA
+694,undermine,The weight appeared to [undermine] the stability the old bridge.,The weight appeared to XXXXX the stability the old bridge.,NA,NA,NA
+695,undermine,The critique of Bill's performance [undermined] his confidence.,The critique of Bill's performance XXXXX his confidence.,NA,NA,NA
+696,undermine,After the girls left the rest of us felt [undermined].,After the girls left the rest of us felt XXXXX.,3252,NA,NA
+697,undermine,When people fail to keep a promise it [undermines] their credibility.,When people fail to keep a promise it XXXXX their credibility.,NA,NA,NA
+698,undermine,She lied so often that it [undermined] our trust in what she said.,She lied so often that it XXXXX our trust in what she said.,3247,NA,NA
+699,undermine,"Instead of supporting the cause, they did everything possible to [undermine] it.","Instead of supporting the cause, they did everything possible to XXXXX it.",NA,NA,NA
+700,undermine,The defense tried to make her look bad in order to [undermine] her case.,The defense tried to make her look bad in order to XXXXX her case.,NA,NA,NA
+701,undermine,Peter brought up the scandal in order to [undermine] his rival.,Peter brought up the scandal in order to XXXXX his rival.,NA,NA,NA
+702,undermine,"When people run for office, negative press can [undermine] their chances of success.","When people run for office, negative press can XXXXX their chances of success.",NA,NA,NA
+703,wince,Mandy's friends saw her [wince] during the second half of the game.,Mandy's friends saw her XXXXX during the second half of the game.,2123,NA,NA
+704,wince,"Sometimes while he is playing a video game, John will [wince].","Sometimes while he is playing a video game, John will XXXXX.",2127,NA,NA
+705,wince,We were surprised to learn that John didn't [wince].,We were surprised to learn that John didn't XXXXX.,NA,NA,NA
+706,wince,Isaac and his friends thought that they saw Francis [wince] during recess.,Isaac and his friends thought that they saw Francis XXXXX during recess.,NA,NA,NA
+707,wince,The agent didn't know if he saw the customer [wince] or not.,The agent didn't know if he saw the customer XXXXX or not.,NA,NA,NA
+708,wince,Julia couldn't tell whether she had actually [winced] or not.,Julia couldn't tell whether she had actually XXXXX or not.,NA,NA,NA
+709,wince,"When the rock hit the windshield, my mother [winced] with surprise.","When the rock hit the windshield, my mother XXXXX with surprise.",NA,NA,NA
+710,wince,Amanda [winced] when the man approached her in the park.,Amanda XXXXX when the man approached her in the park.,2120,NA,NA
+711,wince,His mother told him not to [wince] at the doctor's office.,His mother told him not to XXXXX at the doctor's office.,2745,NA,NA
+712,wince,Jake's friends teased him for [wincing] when the girl pretended to punch him.,Jake's friends teased him for XXXXX when the girl pretended to punch him.,2746,NA,NA
+713,wince,"When Jesse heard the noise she [winced], but tried to stay calm.","When Jesse heard the noise she XXXXX, but tried to stay calm.",NA,NA,NA
+714,wince,"When her friend pretended to slap her, Shelly [winced].","When her friend pretended to slap her, Shelly XXXXX.",NA,NA,NA
+715,wince,In dodge ball people [wince] and dive away from oncoming balls.,In dodge ball people XXXXX and dive away from oncoming balls.,2116,NA,NA
+716,wince,"When the ball hit Billy in the face, he barely had time to [wince].","When the ball hit Billy in the face, he barely had time to XXXXX.",NA,NA,NA
+717,wince,"When Kevin stuck his hand in the bowl of spiders, he didn't even [wince].","When Kevin stuck his hand in the bowl of spiders, he didn't even XXXXX.",NA,NA,NA
+718,wince,"The pain from the needle was sudden, and Mary [winced] a little.","The pain from the needle was sudden, and Mary XXXXX a little.",NA,NA,NA
+719,wince,Sally was so anxious that the unexpected noise made her [wince].,Sally was so anxious that the unexpected noise made her XXXXX.,NA,NA,NA
+720,wince,The scene was so shocking that Sarah [winced] and turned away.,The scene was so shocking that Sarah XXXXX and turned away.,NA,NA,NA
+721,auspices,I can't tell if Bob is doing it under their [auspices] or not.,I can't tell if Bob is doing it under their XXXXX or not.,NA,NA,NA
+722,auspices,The friends talked about what it's like to be under their [auspices].,The friends talked about what it's like to be under their XXXXX.,NA,NA,NA
+723,auspices,Carrie walked along her usual path and thought about the [auspices].,Carrie walked along her usual path and thought about the XXXXX.,NA,NA,NA
+724,auspices,We don't know if we want to be under their [auspices] or not.,We don't know if we want to be under their XXXXX or not.,NA,NA,NA
+725,auspices,"At some point, he may ask us to write about the [auspices].","At some point, he may ask us to write about the XXXXX.",NA,NA,NA
+726,auspices,Sally said she wanted to talk about the [auspices].,Sally said she wanted to talk about the XXXXX.,NA,NA,NA
+727,auspices,Last year John depended on the [auspices] of his parents.,Last year John depended on the XXXXX of his parents.,NA,NA,NA
+728,auspices,We carried out the study under the [auspices] of the government.,We carried out the study under the XXXXX of the government.,NA,NA,NA
+729,auspices,The fireworks were set off under the [auspices] of the city.,The fireworks were set off under the XXXXX of the city.,NA,NA,NA
+730,auspices,Ukraine would accept the aid if it arrived under the [auspices] of the Red Cross.,Ukraine would accept the aid if it arrived under the XXXXX of the Red Cross.,NA,NA,NA
+731,auspices,When the building reopens it will be under the [auspices] of the fairgrounds.,When the building reopens it will be under the XXXXX of the fairgrounds.,NA,NA,NA
+732,auspices,I completed my studies under the [auspices] of the US government.,I completed my studies under the XXXXX of the US government.,NA,NA,NA
+733,auspices,The student was very thankful for her teacher's kind support and [auspices].,The student was very thankful for her teacher's kind support and XXXXX.,NA,NA,NA
+734,auspices,The robotics team wouldn't have been so successful without the company's [auspices] and help.,The robotics team wouldn't have been so successful without the company's XXXXX and help.,NA,NA,NA
+735,auspices,Saul was glad he was working under the help of his mentor's [auspices].,Saul was glad he was working under the help of his mentor's XXXXX.,NA,NA,NA
+736,auspices,The soccer team operated under the [auspices] of the school's athletic committee.,The soccer team operated under the XXXXX of the school's athletic committee.,NA,NA,NA
+737,auspices,The global aid organization operated under the [auspices] and sponsorship of the United Nations.,The global aid organization operated under the XXXXX and sponsorship of the United Nations.,NA,NA,NA
+738,auspices,The candidates all wanted the support of the big company and tried to get its [auspices].,The candidates all wanted the support of the big company and tried to get its XXXXX.,NA,NA,NA
+739,browbeat,Harold thought about whether or not he should [browbeat] his friend.,Harold thought about whether or not he should XXXXX his friend.,NA,NA,NA
+740,browbeat,Olivia didn't have any idea what it would be like to [browbeat] someone.,Olivia didn't have any idea what it would be like to XXXXX someone.,NA,NA,NA
+741,browbeat,Patrick was surprised that his coworker wanted to [browbeat] him.,Patrick was surprised that his coworker wanted to XXXXX him.,NA,NA,NA
+742,browbeat,"After Brenda left, the boys all began to [browbeat] one another.","After Brenda left, the boys all began to XXXXX one another.",NA,NA,NA
+743,browbeat,Iris and John couldn't agree whether or not they should [browbeat] David.,Iris and John couldn't agree whether or not they should XXXXX David.,NA,NA,NA
+744,browbeat,I was surprised when the mailman tried to [browbeat] me this morning.,I was surprised when the mailman tried to XXXXX me this morning.,NA,NA,NA
+745,browbeat,Jane wanted to [browbeat] her sister into revealing the truth.,Jane wanted to XXXXX her sister into revealing the truth.,NA,NA,NA
+746,browbeat,"In some countries, girls are [browbeat] into marrying at a very young age.","In some countries, girls are XXXXX into marrying at a very young age.",NA,NA,NA
+747,browbeat,"A coach should provide leadership, not [browbeat] their players.","A coach should provide leadership, not XXXXX their players.",1083,NA,NA
+748,browbeat,The company tried to [browbeat] them into signing the deal.,The company tried to XXXXX them into signing the deal.,NA,NA,NA
+749,browbeat,The boss decided to [browbeat] the workers into leaving.,The boss decided to XXXXX the workers into leaving.,NA,NA,NA
+750,browbeat,Dylan might [browbeat] them in order to get his way.,Dylan might XXXXX them in order to get his way.,NA,NA,NA
+751,browbeat,"Samantha didn't want to help the bully, but he [browbeat] her into doing his homework.","Samantha didn't want to help the bully, but he XXXXX her into doing his homework.",NA,NA,NA
+752,browbeat,John's Dad usually has to yell and [browbeat] him into doing his chores.,John's Dad usually has to yell and XXXXX him into doing his chores.,NA,NA,NA
+753,browbeat,The detective [browbeat] the suspect into giving a confession.,The detective XXXXX the suspect into giving a confession.,NA,NA,NA
+754,browbeat,His wife nagged and [browbeat] him into purchasing the necklace.,His wife nagged and XXXXX him into purchasing the necklace.,NA,NA,NA
+755,browbeat,The babysitter had to [browbeat] the kids into doing as they were told.,The babysitter had to XXXXX the kids into doing as they were told.,NA,NA,NA
+756,browbeat,"Sarah wanted to talk, not [browbeat] her husband into agreement.","Sarah wanted to talk, not XXXXX her husband into agreement.",NA,NA,NA
+757,castigate,She asked them if anyone had been [castigated] this afternoon.,She asked them if anyone had been XXXXX this afternoon.,NA,NA,NA
+758,castigate,The gardener was surprised when his wife started to [castigate] him.,The gardener was surprised when his wife started to XXXXX him.,NA,NA,NA
+759,castigate,Gina didn't know what it would be like to [castigate] someone.,Gina didn't know what it would be like to XXXXX someone.,NA,NA,NA
+760,castigate,We agreed that it would not be advisable to [castigate] them.,We agreed that it would not be advisable to XXXXX them.,NA,NA,NA
+761,castigate,Robert didn't know that his friends were planning to [castigate] him.,Robert didn't know that his friends were planning to XXXXX him.,NA,NA,NA
+762,castigate,The teacher didn't think it was the right time to [castigate] the boy.,The teacher didn't think it was the right time to XXXXX the boy.,NA,NA,NA
+763,castigate,"Jimmy isn't a great athlete, but John shouldn't [castigate] him so much.","Jimmy isn't a great athlete, but John shouldn't XXXXX him so much.",NA,NA,NA
+764,castigate,"After Brandon wrecked the car, he was [castigated] by his girlfriend.","After Brandon wrecked the car, he was XXXXX by his girlfriend.",NA,NA,NA
+765,castigate,"After Mary voted, her coworkers [castigate] her for voting against the strike.","After Mary voted, her coworkers XXXXX her for voting against the strike.",NA,NA,NA
+766,castigate,"When celebrities behave badly, they are often [castigated] in the news.","When celebrities behave badly, they are often XXXXX in the news.",NA,NA,NA
+767,castigate,"Because the boy was different, the other kids ignored or [castigate] him.","Because the boy was different, the other kids ignored or XXXXX him.",NA,NA,NA
+768,castigate,Bob began to lose his confidence after he was [castigated] by his team.,Bob began to lose his confidence after he was XXXXX by his team.,NA,NA,NA
+769,castigate,"After his controversial speech, some people praised Don, but others [castigated] him.","After his controversial speech, some people praised Don, but others XXXXX him.",NA,NA,NA
+770,castigate,"After the news anchor lied, he was often [castigated] by the press.","After the news anchor lied, he was often XXXXX by the press.",NA,NA,NA
+771,castigate,The judge [castigated] the boy for stealing and sentenced him to community service.,The judge XXXXX the boy for stealing and sentenced him to community service.,NA,NA,NA
+772,castigate,The teacher first corrected Richard and then [castigated] him for being sloppy.,The teacher first corrected Richard and then XXXXX him for being sloppy.,NA,NA,NA
+773,castigate,"After Peggy confessed, she was [castigated] for only telling one side of the story.","After Peggy confessed, she was XXXXX for only telling one side of the story.",NA,NA,NA
+774,castigate,Sylvester always thought his ideas were the best and ignored those who [castigate] him.,Sylvester always thought his ideas were the best and ignored those who XXXXX him.,NA,NA,NA
+775,cavort,Ida and Peggy meet after work to [cavort] outside.,Ida and Peggy meet after work to XXXXX outside.,NA,NA,NA
+776,cavort,It is important to set aside time to [cavort] every day.,It is important to set aside time to XXXXX every day.,NA,NA,NA
+777,cavort,There were few chances for us to [cavort] in the afternoon.,There were few chances for us to XXXXX in the afternoon.,NA,NA,NA
+778,cavort,We were so busy that we rarely found time to [cavort].,We were so busy that we rarely found time to XXXXX.,NA,NA,NA
+779,cavort,We decided to look for another place to [cavort].,We decided to look for another place to XXXXX.,NA,NA,NA
+780,cavort,We were surprised that they never had a chance to [cavort].,We were surprised that they never had a chance to XXXXX.,NA,NA,NA
+781,cavort,They monkeys hooted as they [cavorted] in the branches.,They monkeys hooted as they XXXXX in the branches.,NA,NA,NA
+782,cavort,"On New Year's Eve, we celebrated by [cavorting] around town.","On New Year's Eve, we celebrated by XXXXX around town.",3226,NA,NA
+783,cavort,Celebrities spend their evenings [cavorting] with other rich people.,Celebrities spend their evenings XXXXX with other rich people.,3508,NA,NA
+784,cavort,"At the prom, the teenagers laughed and [cavorted] to the music.","At the prom, the teenagers laughed and XXXXX to the music.",3510,NA,NA
+785,cavort,In winter the dogs frolic and [cavort] in the snow.,In winter the dogs frolic and XXXXX in the snow.,3511,NA,NA
+786,cavort,It was a great party because people felt free to mingle and [cavort].,It was a great party because people felt free to mingle and XXXXX.,3519,NA,NA
+787,cavort,The school created an area where the kids could [cavort] at recess.,The school created an area where the kids could XXXXX at recess.,3509,NA,NA
+788,cavort,"At the park, parents watch their children laugh and [cavort] on the jungle Jim.","At the park, parents watch their children laugh and XXXXX on the jungle Jim.",1085,NA,NA
+789,cavort,Each summer we have a festival with rides and places for kids to [cavort].,Each summer we have a festival with rides and places for kids to XXXXX.,3512,NA,NA
+790,cavort,Lily was tired because she spent the weekend [cavorting] with friends.,Lily was tired because she spent the weekend XXXXX with friends.,NA,NA,NA
+791,cavort,We were happy to see the dolphins jumping and [cavorting] in the waves.,We were happy to see the dolphins jumping and XXXXX in the waves.,NA,NA,NA
+792,cavort,The children giggled and splashed as they [cavorted] in the wave pool.,The children giggled and splashed as they XXXXX in the wave pool.,3518,NA,NA
+793,defile,Adam and his friends spent a lot of time [defiling] things this week.,Adam and his friends spent a lot of time XXXXX things this week.,NA,NA,NA
+794,defile,The group of children couldn't decide if they would [defile] it or not.,The group of children couldn't decide if they would XXXXX it or not.,NA,NA,NA
+795,defile,She interviewed them to find out why it had been [defiled].,She interviewed them to find out why it had been XXXXX.,NA,NA,NA
+796,defile,There was general agreement that it had been [defiled] last night.,There was general agreement that it had been XXXXX last night.,3505,NA,NA
+797,defile,There was much discussion about whether or not it had been [defiled].,There was much discussion about whether or not it had been XXXXX.,3502,NA,NA
+798,defile,We found no evidence to suggest that it had been [defiled].,We found no evidence to suggest that it had been XXXXX.,3500,NA,NA
+800,defile,It's a shame that this area has been [defiled] by tourists.,It's a shame that this area has been XXXXX by tourists.,3495,NA,NA
+801,defile,The kids were almost arrested for [defiling] city property.,The kids were almost arrested for XXXXX city property.,NA,NA,NA
+802,defile,We were shocked to learn the tomb had been [defiled] by pirates.,We were shocked to learn the tomb had been XXXXX by pirates.,NA,NA,NA
+803,defile,A bunch of kids had broken in and [defiled] the paintings.,A bunch of kids had broken in and XXXXX the paintings.,NA,NA,NA
+804,defile,"After the news release, she feared that the story had [defiled] her reputation.","After the news release, she feared that the story had XXXXX her reputation.",NA,NA,NA
+805,defile,"The charming town was soon [defiled] by city traffic, smoke stacks, and gambling.","The charming town was soon XXXXX by city traffic, smoke stacks, and gambling.",3493,NA,NA
+806,defile,The man was fined for [defiling] the artwork with a permanent marker.,The man was fined for XXXXX the artwork with a permanent marker.,NA,NA,NA
+807,defile,"The gas company admitted to the leak, which [defiled] the local drinking water.","The gas company admitted to the leak, which XXXXX the local drinking water.",3488,NA,NA
+808,defile,The rain forest was once pristine but was [defiled] by careless visitors.,The rain forest was once pristine but was XXXXX by careless visitors.,NA,NA,NA
+809,defile,The intruders entered the church and [defiled] a statue by spray painting it.,The intruders entered the church and XXXXX a statue by spray painting it.,NA,NA,NA
+810,defile,"We cleaned up the park, which had been [defiled] by careless visitors.","We cleaned up the park, which had been XXXXX by careless visitors.",3487,NA,NA
+811,deteriorate,None of us had expected that it would continue to [deteriorate].,None of us had expected that it would continue to XXXXX.,NA,NA,NA
+812,deteriorate,We didn't understand why everything was starting to [deteriorate].,We didn't understand why everything was starting to XXXXX.,NA,NA,NA
+813,deteriorate,I wondered what would happen if things started to [deteriorate].,I wondered what would happen if things started to XXXXX.,NA,NA,NA
+814,deteriorate,Harry told us that nothing had [deteriorated] since he lived there.,Harry told us that nothing had XXXXX since he lived there.,NA,NA,NA
+815,deteriorate,The people realized that they had allowed things to [deteriorate].,The people realized that they had allowed things to XXXXX.,NA,NA,NA
+816,deteriorate,The problem becomes more complicated if certain things are found to [deteriorate].,The problem becomes more complicated if certain things are found to XXXXX.,NA,NA,NA
+817,deteriorate,"I forgot the sandwich in my locker, leaving it to [deteriorate].","I forgot the sandwich in my locker, leaving it to XXXXX.",NA,NA,NA
+818,deteriorate,"Over millions of years, the flow of water causes rock to [deteriorate].","Over millions of years, the flow of water causes rock to XXXXX.",NA,NA,NA
+819,deteriorate,Exposure to dust and air caused the ancient mummy to [deteriorate].,Exposure to dust and air caused the ancient mummy to XXXXX.,NA,NA,NA
+820,deteriorate,The spread of illness caused conditions in the camp to [deteriorate].,The spread of illness caused conditions in the camp to XXXXX.,NA,NA,NA
+821,deteriorate,"When the defendant threatened the witness, his case began to [deteriorate].","When the defendant threatened the witness, his case began to XXXXX.",NA,NA,NA
+822,deteriorate,The mood of the passengers aboard the Titanic started to [deteriorate].,The mood of the passengers aboard the Titanic started to XXXXX.,NA,NA,NA
+823,deteriorate,The passage of time caused the old reel of film to [deteriorate].,The passage of time caused the old reel of film to XXXXX.,NA,NA,NA
+824,deteriorate,Eating unhealthy foods will only cause your health to [deteriorate].,Eating unhealthy foods will only cause your health to XXXXX.,NA,NA,NA
+825,deteriorate,"He could have fixed the car, but the engine was [deteriorate] from neglect.","He could have fixed the car, but the engine was XXXXX from neglect.",NA,NA,NA
+826,deteriorate,The presence of drugs and crimes caused the quality of life to [deteriorate].,The presence of drugs and crimes caused the quality of life to XXXXX.,NA,NA,NA
+827,deteriorate,"The pollution triggered my asthma, causing my health to [deteriorate].","The pollution triggered my asthma, causing my health to XXXXX.",NA,NA,NA
+828,deteriorate,Arthritis is a condition where the joints are [deteriorated] over time.,Arthritis is a condition where the joints are XXXXX over time.,NA,NA,NA
+829,dross,Luke didn't know if it was his [dross] or someone else's.,Luke didn't know if it was his XXXXX or someone else's.,NA,NA,NA
+830,dross,Barbara was surprised to see so much [dross] around her.,Barbara was surprised to see so much XXXXX around her.,NA,NA,NA
+831,dross,"Out of the corner of his eye, Will saw some [dross].","Out of the corner of his eye, Will saw some XXXXX.",NA,NA,NA
+832,dross,"Last night, I discovered that there was a lot of [dross] outside.","Last night, I discovered that there was a lot of XXXXX outside.",NA,NA,NA
+833,dross,"Hannah decided to leave for work, forgetting all about the [dross].","Hannah decided to leave for work, forgetting all about the XXXXX.",NA,NA,NA
+834,dross,Steve wasn't sure what he should do about the [dross].,Steve wasn't sure what he should do about the XXXXX.,NA,NA,NA
+835,dross,We were disappointed when we saw that our motel room was filled with [dross].,We were disappointed when we saw that our motel room was filled with XXXXX.,NA,NA,NA
+836,dross,Who's to say what is valuable and what is [dross]?,Who's to say what is valuable and what is XXXXX?,NA,NA,NA
+837,dross,I loved the old junkyard because I was searching for [dross].,I loved the old junkyard because I was searching for XXXXX.,NA,NA,NA
+838,dross,"After the New Year's party, the streets were littered with [dross].","After the New Year's party, the streets were littered with XXXXX.",NA,NA,NA
+839,dross,"His diet consists of candy, corn chips and other [dross].","His diet consists of candy, corn chips and other XXXXX.",NA,NA,NA
+840,dross,Sometimes you need to sort through a lot of [dross] to find something nice.,Sometimes you need to sort through a lot of XXXXX to find something nice.,NA,NA,NA
+841,dross,The streets of the run-down neighborhood were lined with graffiti and [dross].,The streets of the run-down neighborhood were lined with graffiti and XXXXX.,NA,NA,NA
+842,dross,"The ocean floor was littered with plastic, cans, and other [dross].","The ocean floor was littered with plastic, cans, and other XXXXX.",NA,NA,NA
+843,dross,"After the big parade, the street was full of all the [dross] people had left behind.","After the big parade, the street was full of all the XXXXX people had left behind.",NA,NA,NA
+844,dross,The hurricane destroyed the town and left the streets full of [dross].,The hurricane destroyed the town and left the streets full of XXXXX.,NA,NA,NA
+845,dross,"After the tornado, the building was nothing more than a pile of [dross].","After the tornado, the building was nothing more than a pile of XXXXX.",NA,NA,NA
+846,dross,I would rather sit in silence than listen to this CD full of terrible [dross].,I would rather sit in silence than listen to this CD full of terrible XXXXX.,NA,NA,NA
+847,epiphany,Bob was so distracted that he forgot all about his [epiphany].,Bob was so distracted that he forgot all about his XXXXX.,NA,NA,NA
+848,epiphany,Jane wrote a short story about the time she had an [epiphany].,Jane wrote a short story about the time she had a(n) XXXXX.,NA,NA,NA
+849,epiphany,Michelle sat down to write about what it was like to have an [epiphany].,Michelle sat down to write about what it was like to have a(n) XXXXX.,NA,NA,NA
+850,epiphany,All of us hope that Susan has an [epiphany] sometime soon.,All of us hope that Susan has a(n) XXXXX sometime soon.,NA,NA,NA
+851,epiphany,Some people have had many more [epiphanies] than other people.,Some people have had many more XXXXX than other people.,NA,NA,NA
+852,epiphany,We decided that there was no reason to discuss the [epiphany] any more.,We decided that there was no reason to discuss the XXXXX any more.,NA,NA,NA
+853,epiphany,The discovery was so unexpected that it seemed like an [epiphany].,The discovery was so unexpected that it seemed like a(n) XXXXX.,1636,NA,NA
+854,epiphany,When we realize an important truth it can be an [epiphany].,When we realize an important truth it can be a(n) XXXXX.,NA,NA,NA
+855,epiphany,Sometimes you need to stop thinking so hard in order to have an [epiphany].,Sometimes you need to stop thinking so hard in order to have a(n) XXXXX.,NA,NA,NA
+856,epiphany,The solution to a problem sometimes appears as an [epiphany].,The solution to a problem sometimes appears as a(n) XXXXX.,1637,NA,NA
+857,epiphany,When the boy finally learned to ride a bike it was an [epiphany].,When the boy finally learned to ride a bike it was a(n) XXXXX.,NA,NA,NA
+858,epiphany,"Sometimes learning seems hard, and sometimes it's an [epiphany].","Sometimes learning seems hard, and sometimes it's a(n) XXXXX.",NA,NA,NA
+859,epiphany,During his prayer the spiritual leader had a sudden vision or [epiphany].,During his prayer the spiritual leader had a sudden vision or XXXXX.,NA,NA,NA
+860,epiphany,Artists are sometimes inspired by a powerful vision or [epiphany].,Artists are sometimes inspired by a powerful vision or XXXXX.,NA,NA,NA
+861,epiphany,Einstein said that his new idea came to him as an [epiphany] or vision.,Einstein said that his new idea came to him as a(n) XXXXX or vision.,NA,NA,NA
+862,epiphany,"An awesome piece of music can lead to inspiration, or an [epiphany].","An awesome piece of music can lead to inspiration, or a(n) XXXXX.",NA,NA,NA
+863,epiphany,The monk was praying about the crisis when he had a sudden [epiphany].,The monk was praying about the crisis when he had a sudden XXXXX.,NA,NA,NA
+864,epiphany,The moment when you find the solution to a puzzle is called an [epiphany].,The moment when you find the solution to a puzzle is called a(n) XXXXX.,NA,NA,NA
+865,goad,Gary thought about the last time that someone tried to [goad] him.,Gary thought about the last time that someone tried to XXXXX him.,NA,NA,NA
+866,goad,Greg did not know what it was like to be [goaded] by someone.,Greg did not know what it was like to be XXXXX by someone.,3342,NA,NA
+867,goad,It was well known that Bill [goads] his friends and enemies alike.,It was well known that Bill XXXXX his friends and enemies alike.,3343,NA,NA
+868,goad,Mary remembered all the times she had been [goaded] as a kid.,Mary remembered all the times she had been XXXXX as a kid.,NA,NA,NA
+869,goad,Most people think that Tom is [goaded] more often than his older sister.,Most people think that Tom is XXXXX more often than his older sister.,3344,NA,NA
+870,goad,I was surprised when the paper boy tried to [goad] me.,I was surprised when the paper boy tried to XXXXX me.,NA,NA,NA
+871,goad,The boss demanded perfection and [goaded] the employees to work harder.,The boss demanded perfection and XXXXX the employees to work harder.,NA,NA,NA
+872,goad,"Every morning, their mother got them up and [goaded] them to the bus stop.","Every morning, their mother got them up and XXXXX them to the bus stop.",3330,NA,NA
+873,goad,The editor had high standards and [goaded] the writer every day to work harder.,The editor had high standards and XXXXX the writer every day to work harder.,3331,NA,NA
+874,goad,The reporter tried to [goad] him into saying something he'd later regret.,The reporter tried to XXXXX him into saying something he'd later regret.,NA,NA,NA
+875,goad,A cowboy used a short whip to [goad] his horse into a slow gallop.,A cowboy used a short whip to XXXXX his horse into a slow gallop.,3336,NA,NA
+876,goad,Heeler dogs have the job of [goading] and pushing a herd of sheep forward.,Heeler dogs have the job of XXXXX and pushing a herd of sheep forward.,3338,NA,NA
+877,goad,Tom's wife [goaded] him into buying her a new dress.,Tom's wife XXXXX him into buying her a new dress.,NA,NA,NA
+878,goad,The citizens protested until they had [goaded] the mayor into action.,The citizens protested until they had XXXXX the mayor into action.,NA,NA,NA
+879,goad,Matthew's little sister [goaded] him in her most annoying voice until he got mad.,Matthew's little sister XXXXX him in her most annoying voice until he got mad.,3329,NA,NA
+880,goad,"Our flight was already boarding, and my sister [goaded] me along frantically.","Our flight was already boarding, and my sister XXXXX me along frantically.",NA,NA,NA
+881,goad,The angry mob shouted and [goaded] him through the streets.,The angry mob shouted and XXXXX him through the streets.,3334,NA,NA
+882,goad,"The odd young man was insulted, abused and [goaded] out of town.","The odd young man was insulted, abused and XXXXX out of town.",3335,NA,NA
+883,incentive,Julia's brother was surprised to learn about the [incentive].,Julia's brother was surprised to learn about the XXXXX.,NA,NA,NA
+884,incentive,I tried to remember the last time that I was offered an [incentive].,I tried to remember the last time that I was offered a(n) XXXXX.,NA,NA,NA
+885,incentive,"After he sat down in his chair, Josh started thinking about the [incentive].","After he sat down in his chair, Josh started thinking about the XXXXX.",NA,NA,NA
+886,incentive,Each of the students in Eliza's English class was writing about the [incentive].,Each of the students in Eliza's English class was writing about the XXXXX.,NA,NA,NA
+887,incentive,We decided that we did not want the [incentive] after all.,We decided that we did not want the XXXXX after all.,NA,NA,NA
+888,incentive,"Earlier today, we asked him if he was going to want an [incentive].","Earlier today, we asked him if he was going to want a(n) XXXXX.",NA,NA,NA
+889,incentive,"The boss wanted William to do better, so he offered them an [incentive].","The boss wanted William to do better, so he offered them a(n) XXXXX.",NA,NA,NA
+890,incentive,Sally was finally persuaded to take the deal by the generous [incentive].,Sally was finally persuaded to take the deal by the generous XXXXX.,NA,NA,NA
+891,incentive,I wasn't sure that I would do it before I heard about the [incentive].,I wasn't sure that I would do it before I heard about the XXXXX.,NA,NA,NA
+892,incentive,"During the fundraiser, the class that raised the most money got an [incentive].","During the fundraiser, the class that raised the most money got a(n) XXXXX.",NA,NA,NA
+893,incentive,Louisa doesn't get things done unless she has an [incentive] to do them.,Louisa doesn't get things done unless she has a(n) XXXXX to do them.,NA,NA,NA
+894,incentive,I was motivated to work harder after I was offered the [incentive].,I was motivated to work harder after I was offered the XXXXX.,NA,NA,NA
+895,incentive,"Marco's workers needed motivation, so he offered them an [incentive] to complete their work.","Marco's workers needed motivation, so he offered them a(n) XXXXX to complete their work.",NA,NA,NA
+896,incentive,Free access to the pool was the [incentive] I needed to join the gym.,Free access to the pool was the XXXXX I needed to join the gym.,NA,NA,NA
+897,incentive,Most people I know work out a lot because looking fit is their [incentive].,Most people I know work out a lot because looking fit is their XXXXX.,NA,NA,NA
+898,incentive,The swim team held extra practices before championships because winning was their [incentive].,The swim team held extra practices before championships because winning was their XXXXX.,NA,NA,NA
+899,incentive,The government gives farmers extra money as an [incentive] to grow more corn.,The government gives farmers extra money as a(n) XXXXX to grow more corn.,NA,NA,NA
+900,incentive,Our teacher offered us extra credit as an [incentive] to go to the school play.,Our teacher offered us extra credit as a(n) XXXXX to go to the school play.,NA,NA,NA
+901,penchant,I was surprised to learn that this was not his usual [penchant].,I was surprised to learn that this was not his usual XXXXX.,NA,NA,NA
+902,penchant,We were surprised to discover that we had similar [penchant].,We were surprised to discover that we had similar XXXXX.,NA,NA,NA
+903,penchant,We guessed that she had the same [penchant] as a child.,We guessed that she had the same XXXXX as a child.,NA,NA,NA
+904,penchant,The girl at the front desk had no [penchant] for small talk.,The girl at the front desk had no XXXXX for small talk.,NA,NA,NA
+905,penchant,It was obvious that John had a [penchant] for it.,It was obvious that John had a(n) XXXXX for it.,NA,NA,NA
+906,penchant,There are a lot of ways to show your [penchant] to succeed.,There are a lot of ways to show your XXXXX to succeed.,NA,NA,NA
+907,penchant,"After the accident, Kathy lost her [penchant] to play soccer.","After the accident, Kathy lost her XXXXX to play soccer.",NA,NA,NA
+908,penchant,"The boy was lost, and sorry he had no [penchant] for hunting.","The boy was lost, and sorry he had no XXXXX for hunting.",NA,NA,NA
+909,penchant,Pat has good taste in clothing and a [penchant] for dressing up.,Pat has good taste in clothing and a(n) XXXXX for dressing up.,NA,NA,NA
+910,penchant,"When I get nervous, I have a [penchant] for nail-biting.","When I get nervous, I have a(n) XXXXX for nail-biting.",NA,NA,NA
+911,penchant,On the weekend Sarah has no [penchant] for doing housework.,On the weekend Sarah has no XXXXX for doing housework.,NA,NA,NA
+912,penchant,"Jerry loves the Hobbit and, in general, has a [penchant] for fantasy.","Jerry loves the Hobbit and, in general, has a(n) XXXXX for fantasy.",NA,NA,NA
+913,penchant,"For Tracie, dancing was not just a career, but a natural [penchant].","For Tracie, dancing was not just a career, but a natural XXXXX.",NA,NA,NA
+914,penchant,Peter was terrified of heights and had no [penchant] to go climbing.,Peter was terrified of heights and had no XXXXX to go climbing.,NA,NA,NA
+915,penchant,Greg is sure to succeed because he has a [penchant] for working hard.,Greg is sure to succeed because he has a(n) XXXXX for working hard.,NA,NA,NA
+916,penchant,Toby is athletic and has a [penchant] for exercising to stay in shape.,Toby is athletic and has a(n) XXXXX for exercising to stay in shape.,NA,NA,NA
+917,penchant,Sarah dislikes rules and has a [penchant] to rebel.,Sarah dislikes rules and has a(n) XXXXX to rebel.,NA,NA,NA
+918,penchant,The grouchy old man has a [penchant] for yelling and screaming.,The grouchy old man has a(n) XXXXX for yelling and screaming.,NA,NA,NA
+919,invalidate,We were surprised to learn that he was on his way to [invalidate] it.,We were surprised to learn that he was on his way to XXXXX it.,NA,NA,NA
+920,invalidate,"Even though I have done it before, I forget how to [invalidate] it.","Even though I have done it before, I forget how to XXXXX it.",NA,NA,NA
+921,invalidate,"If the girls have enough time tomorrow, they will try to [invalidate] it.","If the girls have enough time tomorrow, they will try to XXXXX it.",NA,NA,NA
+922,invalidate,They weren't sure if it had been [invalidated] it or not.,They weren't sure if it had been XXXXX it or not.,NA,NA,NA
+923,invalidate,"When they finally listened to me, I told them to [invalidate] it.","When they finally listened to me, I told them to XXXXX it.",NA,NA,NA
+924,invalidate,"When they asked for his opinion, Alex urged the company to [invalidate] it.","When they asked for his opinion, Alex urged the company to XXXXX it.",NA,NA,NA
+925,invalidate,The council met and voted to [invalidate] the law.,The council met and voted to XXXXX the law.,NA,NA,NA
+926,invalidate,"Although you lost in court, that does not [invalidate] your claim.","Although you lost in court, that does not XXXXX your claim.",NA,NA,NA
+927,invalidate,The Panthers felt like their efforts were [invalidated] by the recent loss.,The Panthers felt like their efforts were XXXXX by the recent loss.,NA,NA,NA
+928,invalidate,"I agree with your point, but it does not [invalidate] my argument.","I agree with your point, but it does not XXXXX my argument.",NA,NA,NA
+929,invalidate,All it takes is a few sloppy researchers to [invalidate] a study.,All it takes is a few sloppy researchers to XXXXX a study.,NA,NA,NA
+930,invalidate,The drop in unemployment does not [invalidate] the need for more jobs.,The drop in unemployment does not XXXXX the need for more jobs.,NA,NA,NA
+931,invalidate,"If you fail to renew your driver's license, it will be [invalidated].","If you fail to renew your driver's license, it will be XXXXX.",NA,NA,NA
+932,invalidate,Teenagers sometimes feel that adults dismiss or [invalidate] their feelings.,Teenagers sometimes feel that adults dismiss or XXXXX their feelings.,NA,NA,NA
+933,invalidate,The Supreme Court ruled to establish a new law and [invalidated] the old one.,The Supreme Court ruled to establish a new law and XXXXX the old one.,NA,NA,NA
+934,invalidate,"During our debate, Jimmy proved me wrong and [invalidated] my argument.","During our debate, Jimmy proved me wrong and XXXXX my argument.",NA,NA,NA
+935,invalidate,Be careful not to break the terms of the contract or you will [invalidate] it.,Be careful not to break the terms of the contract or you will XXXXX it.,NA,NA,NA
+936,invalidate,If the scientist fails to keep the samples clean she could [invalidate] the study.,If the scientist fails to keep the samples clean she could XXXXX the study.,NA,NA,NA
+937,confound,It seems like Bob is [confounded] by a lot of things.,It seems like Bob is XXXXX by a lot of things.,NA,NA,NA
+938,confound,Jim decided that he would not let the situation [confound] him.,Jim decided that he would not let the situation XXXXX him.,NA,NA,NA
+939,confound,I don't understand why she is always trying to [confound] him.,I don't understand why she is always trying to XXXXX him.,NA,NA,NA
+940,confound,"Sometimes, for no reason at all, I feel completely [confounded].","Sometimes, for no reason at all, I feel completely XXXXX.",NA,NA,NA
+941,confound,"If we continue down this path, we're sure to get [confounded].","If we continue down this path, we're sure to get XXXXX.",NA,NA,NA
+942,confound,"After everything was over, Mary felt completely [confounded].","After everything was over, Mary felt completely XXXXX.",NA,NA,NA
+943,confound,"When there are too many things happening at once, it's easy to get [confounded].","When there are too many things happening at once, it's easy to get XXXXX.",NA,NA,NA
+944,confound,"Sometimes, when you have too many options, you might feel [confounded].","Sometimes, when you have too many options, you might feel XXXXX.",NA,NA,NA
+945,confound,"After the surgery, Jim was disoriented and his thoughts were [confounded].","After the surgery, Jim was disoriented and his thoughts were XXXXX.",NA,NA,NA
+946,confound,"With twenty seconds left to answer four questions, the pressure [confounded] Jim's mind.","With twenty seconds left to answer four questions, the pressure XXXXX Jim's mind.",NA,NA,NA
+947,confound,"Marla wanted to understand chemistry, but reading the book just [confounded] her more.","Marla wanted to understand chemistry, but reading the book just XXXXX her more.",NA,NA,NA
+948,confound,"When you don't get enough sleep, your thinking can become [confounded].","When you don't get enough sleep, your thinking can become XXXXX.",NA,NA,NA
+949,confound,"The biology lesson was very challenging, and some students felt [confounded].","The biology lesson was very challenging, and some students felt XXXXX.",NA,NA,NA
+950,confound,"When trying to concentrate on one thing, lots of noise can [confound] your brain.","When trying to concentrate on one thing, lots of noise can XXXXX your brain.",NA,NA,NA
+951,confound,Staying up for twenty four hours straight [confounded] Marla's judgment.,Staying up for twenty four hours straight XXXXX Marla's judgment.,NA,NA,NA
+952,confound,They couldn't tell which way to go because the map [confounded] them.,They couldn't tell which way to go because the map XXXXX them.,NA,NA,NA
+953,confound,Malik had amnesia and was very [confounded] when he woke up in the hospital.,Malik had amnesia and was very XXXXX when he woke up in the hospital.,NA,NA,NA
+954,confound,Megan tried to remember too many things at once and ended up [confounded].,Megan tried to remember too many things at once and ended up XXXXX.,NA,NA,NA
+955,decimate,We did not know that the house had been [decimated] last year.,We did not know that the house had been XXXXX last year.,NA,NA,NA
+956,decimate,We had no idea what had happened or how it had been [decimated].,We had no idea what had happened or how it had been XXXXX.,NA,NA,NA
+957,decimate,On the news we were sad to see that it had been [decimated].,On the news we were sad to see that it had been XXXXX.,NA,NA,NA
+958,decimate,I couldn't imagine what it would be like to see everything [decimated].,I couldn't imagine what it would be like to see everything XXXXX.,NA,NA,NA
+959,decimate,We don't always have control over when things will be [decimated].,We don't always have control over when things will be XXXXX.,NA,NA,NA
+960,decimate,Valerie didn't realize that the plans had already been [decimated].,Valerie didn't realize that the plans had already been XXXXX.,NA,NA,NA
+961,decimate,I was surprised to learn that my bank account had been [decimated].,I was surprised to learn that my bank account had been XXXXX.,NA,NA,NA
+962,decimate,"When I returned home, I found that my candy supply had been [decimated].","When I returned home, I found that my candy supply had been XXXXX.",NA,NA,NA
+963,decimate,Her chances of winning were [decimated] by the loss to her rival.,Her chances of winning were XXXXX by the loss to her rival.,NA,NA,NA
+964,decimate,"The coach was not hopeful, since his team had been [decimated] by injuries.","The coach was not hopeful, since his team had been XXXXX by injuries.",NA,NA,NA
+965,decimate,We were sorry to hear that our favorite team had been [decimated].,We were sorry to hear that our favorite team had been XXXXX.,NA,NA,NA
+966,decimate,Some parts of Japan were [decimated] in World War II.,Some parts of Japan were XXXXX in World War II.,NA,NA,NA
+967,decimate,"After the economy crashed, many lives were [decimated] by financial ruin.","After the economy crashed, many lives were XXXXX by financial ruin.",NA,NA,NA
+968,decimate,"The Vikings were fierce and merciless, and they [decimated] whole towns.","The Vikings were fierce and merciless, and they XXXXX whole towns.",NA,NA,NA
+969,decimate,The fire was so out of control that it thoroughly [decimated] several homes.,The fire was so out of control that it thoroughly XXXXX several homes.,NA,NA,NA
+970,decimate,The coastal towns were completely [decimated] by the hurricane.,The coastal towns were completely XXXXX by the hurricane.,NA,NA,NA
+971,decimate,"The Roman Empire was actually [decimated] by economic loss, rather than moral decline.","The Roman Empire was actually XXXXX by economic loss, rather than moral decline.",NA,NA,NA
+972,decimate,Elephants and other wildlife populations have been [decimated] by illegal hunting.,Elephants and other wildlife populations have been XXXXX by illegal hunting.,NA,NA,NA
+973,integrity,The committee thinks you showed a lot of [integrity] yesterday.,The committee thinks you showed a lot of XXXXX yesterday.,NA,NA,NA
+974,integrity,"All afternoon, Eric sat at his desk and thought about [integrity].","All afternoon, Eric sat at his desk and thought about XXXXX.",NA,NA,NA
+975,integrity,Annie is going to be giving a presentation about [integrity].,Annie is going to be giving a presentation about XXXXX.,NA,NA,NA
+976,integrity,Some people think it is very important to have [integrity].,Some people think it is very important to have XXXXX.,NA,NA,NA
+977,integrity,Today I painted a portrait of a man who is famous for his [integrity].,Today I painted a portrait of a man who is famous for his XXXXX.,NA,NA,NA
+978,integrity,I couldn't tell if the man had [integrity] or not.,I couldn't tell if the man had XXXXX or not.,NA,NA,NA
+979,integrity,I value Mark's opinion because he has a strong sense of [integrity].,I value Mark's opinion because he has a strong sense of XXXXX.,NA,NA,NA
+980,integrity,People feel less safe if they think the police lack [integrity].,People feel less safe if they think the police lack XXXXX.,NA,NA,NA
+981,integrity,The mayor refused the bribe because it would harm his [integrity].,The mayor refused the bribe because it would harm his XXXXX.,NA,NA,NA
+982,integrity,Jim is never tempted to steal because he has [integrity].,Jim is never tempted to steal because he has XXXXX.,NA,NA,NA
+983,integrity,Tom is often selfish and has very little [integrity].,Tom is often selfish and has very little XXXXX.,NA,NA,NA
+984,integrity,Some people think that politicians have no [integrity].,Some people think that politicians have no XXXXX.,NA,NA,NA
+985,integrity,Standing up for what is right takes a lot of [integrity].,Standing up for what is right takes a lot of XXXXX.,NA,NA,NA
+986,integrity,George Washington is famous for his honesty and moral [integrity].,George Washington is famous for his honesty and moral XXXXX.,NA,NA,NA
+987,integrity,Tina can be trusted to do the right thing because she has [integrity].,Tina can be trusted to do the right thing because she has XXXXX.,NA,NA,NA
+988,integrity,"When the child returned my 20 dollars, I was impressed with his [integrity].","When the child returned my 20 dollars, I was impressed with his XXXXX.",NA,NA,NA
+989,integrity,"If you never cheat, even when tempted, it means you have [integrity].","If you never cheat, even when tempted, it means you have XXXXX.",NA,NA,NA
+990,integrity,"Leah never cheats, lies or steals because she has strong [integrity].","Leah never cheats, lies or steals because she has strong XXXXX.",NA,NA,NA
+991,resurgence,It was unclear whether or not he supported the [resurgence].,It was unclear whether or not he supported the XXXXX.,NA,NA,NA
+992,resurgence,Toby was once told that he should think about [resurgence].,Toby was once told that he should think about XXXXX.,NA,NA,NA
+993,resurgence,"We knew Jenna well, but none of us expected her recent [resurgence].","We knew Jenna well, but none of us expected her recent XXXXX.",NA,NA,NA
+994,resurgence,"For the school paper, I was assigned to write about [resurgence].","For the school paper, I was assigned to write about XXXXX.",NA,NA,NA
+995,resurgence,Craig was surprised to learn of his old friend's [resurgence].,Craig was surprised to learn of his old friend's XXXXX.,NA,NA,NA
+996,resurgence,We were surprised to learn about the sudden [resurgence].,We were surprised to learn about the sudden XXXXX.,NA,NA,NA
+997,resurgence,"Without the vaccine, there could be a serious [resurgence] of the disease.","Without the vaccine, there could be a serious XXXXX of the disease.",NA,NA,NA
+998,resurgence,The rock band changed its style to recognize the [resurgence] of jazz music.,The rock band changed its style to recognize the XXXXX of jazz music.,NA,NA,NA
+999,resurgence,The researcher was confused by the [resurgence] of the outdated theory.,The researcher was confused by the XXXXX of the outdated theory.,NA,NA,NA
+1000,resurgence,Just when we thought the party had ended there was a [resurgence] of noise.,Just when we thought the party had ended there was a(n) XXXXX of noise.,NA,NA,NA
+1001,resurgence,The city was not prepared for the [resurgence] of the flu.,The city was not prepared for the XXXXX of the flu.,NA,NA,NA
+1002,resurgence,Oliver was about to decide when he had a [resurgence] of doubt.,Oliver was about to decide when he had a(n) XXXXX of doubt.,NA,NA,NA
+1003,resurgence,"Recently, there has been a [resurgence] of interest in Russian culture.","Recently, there has been a(n) XXXXX of interest in Russian culture.",NA,NA,NA
+1004,resurgence,Freya missed seeing her favorite band and was excited for their [resurgence].,Freya missed seeing her favorite band and was excited for their XXXXX.,NA,NA,NA
+1005,resurgence,"The volcano was inactive, so we were unprepared for the [resurgence] of earthquakes.","The volcano was inactive, so we were unprepared for the XXXXX of earthquakes.",NA,NA,NA
+1006,resurgence,We were excited about the reclusive singer's long-awaited [resurgence].,We were excited about the reclusive singer's long-awaited XXXXX.,NA,NA,NA
+1007,resurgence,We thought the bell-bottom craze was over and were surprised by its [resurgence].,We thought the bell-bottom craze was over and were surprised by its XXXXX.,NA,NA,NA

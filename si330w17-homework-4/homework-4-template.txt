@@ -1,0 +1,8 @@
+SI 330 Homework 4: Regular Expressions
+--------------------------------------
+
+Full name:
+Uniqname:
+
+1. Have you worked with anyone else on this assignment?
+(If so, indicate who and in what capacity; if not, write "I have not worked with anyone else on this assignment.")

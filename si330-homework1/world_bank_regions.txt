@@ -1,0 +1,235 @@
+Region	Subregion	Country
+Asia		Afghanistan
+Europe	Independent	Albania
+Africa	Northern Africa	Algeria
+Europe	Independent	Andorra
+Africa	Middle Africa	Angola
+The Americas	Caribbean	Anguilla
+The Americas	Caribbean	Antigua and Barbuda
+The Americas	South America	Argentina
+Asia		Armenia
+The Americas	Caribbean	Aruba
+Oceania		Australia
+Europe	European Union	Austria
+Asia		Azerbaijan
+The Americas	Caribbean	"Bahamas, The"
+Middle East		Bahrain
+Asia		Bangladesh
+The Americas	Caribbean	Barbados
+Europe	Independent	Belarus
+Europe	European Union	Belgium
+The Americas	Central America	Belize
+Africa	Western Africa	Benin
+The Americas	North America	Bermuda
+Asia		Bhutan
+The Americas	South America	Bolivia
+The Americas	Caribbean	"Bonaire, Saint Eustatius and Saba"
+Europe	Independent	Bosnia and Herzegovina
+Africa	Southern Africa	Botswana
+The Americas	South America	Brazil
+The Americas	Caribbean	British Virgin Islands
+Asia		Brunei Darussalam
+Europe	European Union	Bulgaria
+Africa	Western Africa	Burkina Faso
+Africa	Eastern Africa	Burundi
+Asia		Cambodia
+Africa	Middle Africa	Cameroon
+The Americas	North America	Canada
+Africa	Western Africa	Cape Verde
+The Americas	Caribbean	Cayman Islands
+Africa	Middle Africa	Central African Republic
+Africa	Middle Africa	Chad
+The Americas	South America	Chile
+Asia		China
+The Americas	South America	Colombia
+Africa	Eastern Africa	Comoros
+Africa	Middle Africa	"Congo, Dem. Rep."
+Africa	Middle Africa	"Congo, Rep."
+The Americas	Central America	Costa Rica
+Africa	Western Africa	Cote d'Ivoire
+Europe	Independent	Croatia
+The Americas	Caribbean	Cuba
+The Americas	Caribbean	Curacao
+Europe	European Union	Cyprus
+Europe	European Union	Czech Republic
+Europe	European Union	Denmark
+Africa	Eastern Africa	Djibouti
+The Americas	Caribbean	Dominica
+The Americas	Caribbean	Dominican Republic
+The Americas	South America	Ecuador
+Africa	Northern Africa	"Egypt, Arab Rep."
+The Americas	Central America	El Salvador
+Africa	Middle Africa	Equatorial Guinea
+Africa	Eastern Africa	Eritrea
+Europe	European Union	Estonia
+Africa	Eastern Africa	Ethiopia
+Europe	Independent	European Union
+The Americas	South America	Falkland Islands (Malvinas)
+Europe	Independent	Faeroe Islands
+Oceania		Fiji
+Europe	European Union	Finland
+Europe	European Union	France
+The Americas	South America	French Guiana
+Oceania		French Polynesia
+Africa	Middle Africa	Gabon
+Africa	Western Africa	"Gambia, The"
+Asia		Georgia
+Europe	European Union	Germany
+Africa	Western Africa	Ghana
+Europe	Independent	Gibraltar
+Europe	European Union	Greece
+The Americas	North America	Greenland
+The Americas	Caribbean	Grenada
+The Americas	Caribbean	Guadeloupe
+Oceania		Guam
+The Americas	Central America	Guatemala
+Europe	Independent	Guerney and Alderney
+Africa	Western Africa	Guinea
+Africa	Western Africa	Guinea-Bissau
+The Americas	South America	Guyana
+The Americas	Caribbean	Haiti
+The Americas	Central America	Honduras
+Asia		"Hong Kong SAR, China"
+Europe	European Union	Hungary
+Europe	Independent	Iceland
+Asia		India
+Asia		Indonesia
+Middle East		"Iran, Islamic Rep."
+Middle East		Iraq
+Europe	European Union	Ireland
+Middle East		Israel
+Europe	European Union	Italy
+The Americas	Caribbean	Jamaica
+Asia		Japan
+Europe	Independent	Jersey
+Middle East		Jordan
+Asia		Kazakhstan
+Africa	Eastern Africa	Kenya
+Oceania		Kiribati
+Asia		"Korea, Dem. Rep."
+Asia		"Korea, Rep."
+Europe	Independent	Kosovo
+Middle East		Kuwait
+Asia		Kyrgyz Republic
+Asia		Lao PDR
+Europe	European Union	Latvia
+Middle East		Lebanon
+Africa	Southern Africa	Lesotho
+Africa	Western Africa	Liberia
+Africa	Northern Africa	Libya
+Europe	Independent	Liechtenstein
+Europe	European Union	Lithuania
+Europe	European Union	Luxembourg
+Asia		"Macao SAR, China"
+Europe	Independent	"Macedonia, FYR"
+Africa	Eastern Africa	Madagascar
+Africa	Eastern Africa	Malawi
+Asia		Malaysia
+Asia		Maldives
+Africa	Western Africa	Mali
+Europe	European Union	Malta
+Europe	Independent	Isle of Man
+Oceania		Marshall Islands
+The Americas	Caribbean	Martinique
+Africa	Western Africa	Mauritania
+Africa	Eastern Africa	Mauritius
+Africa	Eastern Africa	Mayotte
+The Americas	Central America	Mexico
+Oceania		"Micronesia, Fed. Sts."
+Europe	Independent	Moldova
+Europe	Independent	Monaco
+Asia		Mongolia
+The Americas	Caribbean	Monserrat
+Europe	Independent	Montenegro
+Africa	Northern Africa	Morocco
+Africa	Eastern Africa	Mozambique
+Asia		Myanmar
+Africa	Southern Africa	Namibia
+Asia		Nepal
+Europe	European Union	Netherlands
+Oceania		New Caledonia
+Oceania		New Zealand
+The Americas	Central America	Nicaragua
+Africa	Western Africa	Niger
+Africa	Western Africa	Nigeria
+Africa	Northern Africa	Northern Africa
+Europe	Independent	Norway
+Middle East		Oman
+Asia		Pakistan
+Middle East		Palestine
+The Americas	Central America	Panama
+Oceania		Papua New Guinea
+The Americas	South America	Paraguay
+The Americas	South America	Peru
+Asia		Philippines
+Europe	European Union	Poland
+Europe	European Union	Portugal
+The Americas	Caribbean	Puerto Rico
+Middle East		Qatar
+Africa	Eastern Africa	Reunion
+Europe	European Union	Romania
+Europe	Independent	Russian Federation
+Africa	Eastern Africa	Rwanda
+Africa	Western Africa	Saint Helena
+The Americas	Caribbean	St. Lucia
+The Americas	Caribbean	St. Martin (French part)
+The Americas	North America	Saint Pierre and Miquelon
+The Americas	Caribbean	St. Vincent and the Grenadines
+The Americas	Caribbean	Saint-Barth�lemy
+Oceania		Samoa
+Oceania		American Samoa
+Europe	Independent	San Marino
+Africa	Middle Africa	Sao Tome and Principe
+Middle East		Saudi Arabia
+Africa	Western Africa	Senegal
+Europe	Independent	Serbia
+Africa	Eastern Africa	Seychelles
+Africa	Western Africa	Sierra Leone
+Asia		Singapore
+The Americas	Caribbean	Sint Maarten (Dutch part)
+Europe	European Union	Slovak Republic
+Europe	European Union	Slovenia
+Oceania		Solomon Islands
+Africa	Eastern Africa	Somalia
+Africa	Southern Africa	South Africa
+Africa	Northern Africa	South Sudan
+Africa	Southern Africa	Southern Africa
+Europe	European Union	Spain
+Asia		Sri Lanka
+The Americas	Caribbean	St. Kitts and Nevis
+Africa	Northern Africa	Sudan
+The Americas	South America	Suriname
+Europe	Independent	Svalbard and Jan Mayen Islands
+Africa	Southern Africa	Swaziland
+Europe	European Union	Sweden
+Europe	Independent	Switzerland
+Middle East		Syrian Arab Republic
+Asia		Taiwan
+Asia		Tajikistan
+Africa	Eastern Africa	Tanzania
+Asia		Thailand
+Asia		Timor-Leste
+Africa	Western Africa	Togo
+Oceania		Tonga
+The Americas	Caribbean	Trinidad and Tobago
+Africa	Northern Africa	Tunisia
+Europe	Independent	Turkey
+Asia		Turkmenistan
+The Americas	Caribbean	Turks and Caicos Islands
+Africa	Eastern Africa	Uganda
+Europe	Independent	Ukraine
+Middle East		United Arab Emirates
+Europe	European Union	United Kingdom
+The Americas	North America	United States
+The Americas	South America	Uruguay
+Asia		Uzbekistan
+Oceania		Vanuatu
+Europe	Independent	Vatican City State (Holy See)
+The Americas	South America	"Venezuela, RB"
+Asia		Vietnam
+The Americas	Caribbean	Virgin Islands (U.S.)
+Africa	Western Africa	Western Africa
+Africa	Northern Africa	Western Sahara
+Middle East		"Yemen, Rep."
+Africa	Eastern Africa	Zambia
+Africa	Eastern Africa	Zimbabwe
